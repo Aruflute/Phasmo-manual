@@ -1,0 +1,412 @@
+{
+    "user":
+    {
+		"posession_sanity":
+        {
+	    "type": "Choice",
+	    "description": ["Every cursed posession is a check for every map"],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"enable_apocalypse":
+        {
+	    "type": "Choice",
+	    "description": ["Enables apocalypse checks"],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 0
+		},
+		"apoc_bronze":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"apoc_silver":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"apoc_gold":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 0
+		},
+        "objective_sanity":
+        {
+	    "type": "Choice",
+	    "description": ["Objective are per map rather than global"],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"photo_objective":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"video_objective":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"recording_objective":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"sensor_objective":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"crucifix_objective":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"ghost_event_objective":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"cleanse_objective":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"repel_objective":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"firelight_objective":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"escape_objective":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"parabolic_objective":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"sanity_objective":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"gambler":
+        {
+	    "type": "Choice",
+	    "description": ["Enables custom locations that are pretty RNG"],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 0
+		},
+		"hundred_percent":
+        {
+	    "type": "Choice",
+	    "description": ["Must fill the journal with all media"],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 0
+		},
+		"enable_lv1_items":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"enable_lv2_items":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"enable_lv3_items":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"enable_tanglewood":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"enable_edgefield":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"enable_ridgeview":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"enable_nell_diner":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"enable_grafton":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"enable_willow":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"enable_woodwind":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"enable_point_hope":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"enable_bleasdale":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"enable_maple_lodge":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"enable_restricted_meadows":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"enable_meadows":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"enable_prison":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"enable_high_school":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		}
+    }
+}

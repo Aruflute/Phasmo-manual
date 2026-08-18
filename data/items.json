@@ -1,0 +1,417 @@
+{
+    "data":
+    [
+        {
+            "name": "Flashlight LV 1",
+            "category": ["Items", "Flashlight", "LV1"],
+            "progression": true
+        },
+        {
+            "name": "Flashlight LV 2",
+            "category": ["Items", "Flashlight", "LV2"],
+            "progression": true
+        },
+        {
+            "name": "Flashlight LV 3",
+            "category": ["Items", "Flashlight", "LV3"],
+            "progression": true
+        },
+        {
+            "name": "D.O.T.S Projector LV 1",
+            "category": ["Items", "DOTS", "LV1"],
+            "progression": true
+        },
+        {
+            "name": "D.O.T.S Projector LV 2",
+            "category": ["Items", "DOTS", "LV2"],
+            "progression": true
+        },
+        {
+            "name": "D.O.T.S Projector LV 3",
+            "category": ["Items", "DOTS", "LV3"],
+            "progression": true
+        },
+        {
+            "name": "EMF Reader LV 1",
+            "category": ["Items", "EMF", "LV1"],
+            "progression": true
+        },
+        {
+            "name": "EMF Reader LV 2",
+            "category": ["Items", "EMF", "LV2"],
+            "progression": true
+        },
+        {
+            "name": "EMF Reader LV 3",
+            "category": ["Items", "EMF", "LV3"],
+            "progression": true
+        },
+        {
+            "name": "Ghost writing book LV 1",
+            "category": ["Items", "Writing book", "LV1"],
+            "progression": true
+        },
+        {
+            "name": "Ghost writing book LV 2",
+            "category": ["Items", "Writing book", "LV2"],
+            "progression": true
+        },
+        {
+            "name": "Ghost writing book LV 3",
+            "category": ["Items", "Writing book", "LV3"],
+            "progression": true
+        },
+        {
+            "name": "Spirit box LV 1",
+            "category": ["Items", "Spirit box", "LV1"],
+            "progression": true
+        },
+        {
+            "name": "Spirit box LV 2",
+            "category": ["Items", "Spirit box", "LV2"],
+            "progression": true
+        },
+        {
+            "name": "Spirit box LV 3",
+            "category": ["Items", "Spirit box", "LV3"],
+            "progression": true
+        },
+        {
+            "name": "Thermometer LV 1",
+            "category": ["Items", "Thermo", "LV1"],
+            "progression": true
+        },
+        {
+            "name": "Thermometer LV 2",
+            "category": ["Items", "Thermo", "LV2"],
+            "progression": true
+        },
+        {
+            "name": "Thermometer LV 3",
+            "category": ["Items", "Thermo", "LV3"],
+            "progression": true
+        },
+        {
+            "name": "UV Light LV 1",
+            "category": ["Items", "UV", "LV1"],
+            "progression": true
+        },
+        {
+            "name": "UV Light LV 2",
+            "category": ["Items", "UV", "LV2"],
+            "progression": true
+        },
+        {
+            "name": "UV Light LV 3",
+            "category": ["Items", "UV", "LV3"],
+            "progression": true
+        },
+        {
+            "name": "Video camera LV 1",
+            "category": ["Items", "Video camera", "LV1"],
+            "progression": true,
+			"early": true
+        },
+        {
+            "name": "Video camera LV 2",
+            "category": ["Items", "Video camera", "LV2"],
+            "progression": true
+        },
+        {
+            "name": "Video camera LV 3",
+            "category": ["Items", "Video camera", "LV3"],
+            "progression": true
+        },
+        {
+            "name": "Crucifix LV 1",
+            "category": ["Items", "Crucifix", "LV1"],
+            "progression": true
+        },
+        {
+            "name": "Crucifix LV 2",
+            "category": ["Items", "Crucifix", "LV2"],
+            "progression": true
+        },
+        {
+            "name": "Crucifix LV 3",
+            "category": ["Items", "Crucifix", "LV3"],
+            "progression": true
+        },
+        {
+            "name": "Firelight LV 1",
+            "category": ["Items", "Firelight", "LV1"],
+            "progression": true
+        },
+        {
+            "name": "Firelight LV 2",
+            "category": ["Items", "Firelight", "LV2"],
+            "progression": true
+        },
+        {
+            "name": "Firelight LV 3",
+            "category": ["Items", "Firelight", "LV3"],
+            "progression": true,
+			"early": true
+        },
+        {
+            "name": "Head gear LV 1",
+            "category": ["Items", "Head gear", "LV1"],
+            "progression": true
+        },
+        {
+            "name": "Head gear LV 2",
+            "category": ["Items", "Head gear", "LV2"],
+            "progression": true
+        },
+        {
+            "name": "Head gear LV 3",
+            "category": ["Items", "Head gear", "LV3"],
+            "progression": true
+        },
+        {
+            "name": "Lighter LV 1",
+            "category": ["Items", "Lighter", "LV1"],
+            "progression": true,
+			"early": true
+        },
+        {
+            "name": "Lighter LV 2",
+            "category": ["Items", "Lighter", "LV2"],
+            "progression": true,
+			"early": true
+        },
+        {
+            "name": "Lighter LV 3",
+            "category": ["Items", "Lighter", "LV3"],
+            "progression": true,
+			"early": true
+        },
+        {
+            "name": "Motion sensor LV 1",
+            "category": ["Items", "Motion sensor", "LV1"],
+            "progression": true
+        },
+        {
+            "name": "Motion sensor LV 2",
+            "category": ["Items", "Motion sensor", "LV2"],
+            "progression": true
+        },
+        {
+            "name": "Motion sensor LV 3",
+            "category": ["Items", "Motion sensor", "LV3"],
+            "progression": true
+        },
+        {
+            "name": "Parabolic microphone LV 1",
+            "category": ["Items", "Parabolic microphone", "LV1"],
+            "progression": true
+        },
+        {
+            "name": "Parabolic microphone LV 2",
+            "category": ["Items", "Parabolic microphone", "LV2"],
+            "progression": true
+        },
+        {
+            "name": "Parabolic microphone LV 3",
+            "category": ["Items", "Parabolic microphone", "LV3"],
+            "progression": true
+        },
+        {
+            "name": "Photo camera LV 1",
+            "category": ["Items", "Photo camera", "LV1"],
+            "progression": true,
+			"early": true
+        },
+        {
+            "name": "Photo camera LV 2",
+            "category": ["Items", "Photo camera", "LV2"],
+            "progression": true
+        },
+        {
+            "name": "Photo camera LV 3",
+            "category": ["Items", "Photo camera", "LV3"],
+            "progression": true
+        },
+        {
+            "name": "Salt LV 1",
+            "category": ["Items", "Salt", "LV1"],
+            "progression": true
+        },
+        {
+            "name": "Salt LV 2",
+            "category": ["Items", "Salt", "LV2"],
+            "progression": true
+        },
+        {
+            "name": "Salt LV 3",
+            "category": ["Items", "Salt", "LV3"],
+            "progression": true
+        },
+        {
+            "name": "Sanity medication LV 1",
+            "category": ["Items", "Sanity", "LV1"],
+            "progression": true
+        },
+        {
+            "name": "Sanity medication LV 2",
+            "category": ["Items", "Sanity", "LV2"],
+            "progression": true
+        },
+        {
+            "name": "Sanity medication LV 3",
+            "category": ["Items", "Sanity", "LV3"],
+            "progression": true
+        },
+        {
+            "name": "Sound recorder LV 1",
+            "category": ["Items", "Sound recorder", "LV1"],
+            "progression": true
+        },
+        {
+            "name": "Sound recorder LV 2",
+            "category": ["Items", "Sound recorder", "LV2"],
+            "progression": true
+        },
+        {
+            "name": "Sound recorder LV 3",
+            "category": ["Items", "Sound recorder", "LV3"],
+            "progression": true
+        },
+        {
+            "name": "Sound sensor LV 1",
+            "category": ["Items", "Sound sensor", "LV1"],
+            "progression": true
+        },
+        {
+            "name": "Sound sensor LV 2",
+            "category": ["Items", "Sound sensor", "LV2"],
+            "progression": true
+        },
+        {
+            "name": "Sound sensor LV 3",
+            "category": ["Items", "Sound sensor", "LV3"],
+            "progression": true
+        },
+        {
+            "name": "Tripod LV 1",
+            "category": ["Items", "Tripod", "LV1"],
+            "progression": true
+        },
+        {
+            "name": "Tripod LV 2",
+            "category": ["Items", "Tripod", "LV2"],
+            "progression": true
+        },
+        {
+            "name": "Tripod LV 3",
+            "category": ["Items", "Tripod", "LV3"],
+            "progression": true
+        },
+		{
+            "name": "Smudge stick LV 1",
+            "category": ["Items", "Smudges", "LV1"],
+            "progression": true,
+			"early": true
+        },
+		{
+            "name": "Smudge stick LV 2",
+            "category": ["Items", "Smudges", "LV2"],
+            "progression": true,
+			"early": true
+        },
+		{
+            "name": "Smudge stick LV 3",
+            "category": ["Items", "Smudges", "LV3"],
+            "progression": true,
+			"early": true
+        },
+		{
+			"name": "6 Tanglewood drive",
+			"category": ["Map unlocks", "Tanglewood"],
+			"progression": true
+		},
+		{
+			"name": "42 Edgefield road",
+			"category": ["Map unlocks", "Edgefield"],
+			"progression": true
+		},
+		{
+			"name": "10 Ridgeview court",
+			"category": ["Map unlocks", "Ridgeview"],
+			"progression": true
+		},
+		{
+			"name": "Nell's diner",
+			"category": ["Map unlocks", "Diner", "BigMaps"],
+			"progression": true
+		},
+		{
+			"name": "Grafton farmhouse",
+			"category": ["Map unlocks", "Grafton", "BigMaps"],
+			"progression": true
+		},
+		{
+			"name": "13 Willow street",
+			"category": ["Map unlocks", "Willow"],
+			"progression": true
+		},
+		{
+			"name": "Camp woodwind",
+			"category": ["Map unlocks", "Woodwind"],
+			"progression": true
+		},
+		{
+			"name": "Point hope",
+			"category": ["Map unlocks", "Point hope", "BigMaps"],
+			"progression": true
+		},
+		{
+			"name": "Bleasdale farmhouse",
+			"category": ["Map unlocks", "Bleasdale", "BigMaps"],
+			"progression": true
+		},
+		{
+			"name": "Sunny meadows restricted",
+			"category": ["Map unlocks", "Meadows restricted", "BigMaps"],
+			"progression": true
+		},
+		{
+			"name": "Sunny meadows",
+			"category": ["Map unlocks", "Meadows", "BigMaps"],
+			"progression": true
+		},
+		{
+			"name": "Prison",
+			"category": ["Map unlocks", "Prison", "BigMaps"],
+			"progression": true
+		},
+		{
+			"name": "Maple lodge campsite",
+			"category": ["Map unlocks", "Maple lodge", "BigMaps"],
+			"progression": true
+		},
+		{
+			"name": "Brownstone high school",
+			"category": ["Map unlocks", "High school", "BigMaps"],
+			"progression": true
+		},
+		{
+			"name": "nothing of value",
+			"category": ["Filler"],
+			"filler": true,
+			"count": 30
+		},
+		{
+			"name": "Burger king",
+			"category": ["Filler"],
+			"filler": true,
+			"count": 10
+		},
+		{
+			"name": "some well needed sanity",
+			"category": ["Filler"],
+			"filler": true,
+			"count": 40
+		}
+    ]
+}

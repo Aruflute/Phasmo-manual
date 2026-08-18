@@ -1,0 +1,390 @@
+{
+    "Map completed":
+    {
+        "hidden": false
+    },
+	"BigMaps":
+    {
+        "hidden": true
+    },
+	"Map unlocks":
+    {
+        "hidden": false
+    },
+	"Items":
+	{
+		"hidden": false
+	},
+	"Flashlight":
+	{
+		"hidden": false
+	},
+	"DOTS":
+	{
+		"hidden": false
+	},
+	"EMF":
+	{
+		"hidden": false
+	},
+	"Writing book":
+	{
+		"hidden": false
+	},
+	"Spirit box":
+	{
+		"hidden": false
+	},
+	"Thermo":
+	{
+		"hidden": false
+	},
+	"UV":
+	{
+		"hidden": false
+	},
+	"Video camera":
+	{
+		"hidden": false
+	},
+	"Crucifix":
+	{
+		"hidden": false
+	},
+	"Firelight":
+	{
+		"hidden": false
+	},
+	"Head gear":
+	{
+		"hidden": false
+	},
+	"Lighter":
+	{
+		"hidden": false
+	},
+	"Incense":
+	{
+		"hidden": false
+	},
+	"Motion sensor":
+	{
+		"hidden": false
+	},
+	"Parabolic microphone":
+	{
+		"hidden": false
+	},
+	"Photo camera":
+	{
+		"hidden": false
+	},
+	"Salt":
+	{
+		"hidden": false
+	},
+	"Sanity":
+	{
+		"hidden": false
+	},
+	"Sound recorder":
+	{
+		"hidden": false
+	},
+	"Sound sensor":
+	{
+		"hidden": false
+	},
+	"Tripod":
+	{
+		"hidden": false
+	},
+    "LV1":
+    {
+        "hidden": true
+    },
+    "LV2":
+    {
+        "hidden": true
+    },
+    "LV3":
+    {
+        "hidden": true
+    },
+    "Cursed posessions":
+    {
+        "hidden": false
+    },
+    "Posession Sanity":
+    {
+        "hidden": true
+    },
+	"Normal Posession":
+    {
+        "hidden": true
+    },
+    "Objectives":
+    {
+        "hidden": false
+    },
+    "Tanglewood":
+    {
+        "hidden": true
+    },
+    "Tanglewood objectives":
+    {
+        "hidden": false
+    },
+	"Tanglewood posessions":
+    {
+        "hidden": false
+    },
+    "Edgefield":
+    {
+        "hidden": true
+    },
+    "Edgefield objectives":
+    {
+        "hidden": false
+    },
+	"Edgefield posessions":
+    {
+        "hidden": false
+    },
+    "Ridgeview":
+    {
+        "hidden": true
+    },
+    "Ridgeview Objectives":
+    {
+        "hidden": false
+    },
+    "Diner":
+    {
+        "hidden": true
+    },
+    "Nell objectives":
+    {
+        "hidden": false
+    },
+	"Nell posessions":
+    {
+        "hidden": false
+    },
+    "Grafton":
+    {
+        "hidden": true
+    },
+    "Grafton objectives":
+    {
+        "hidden": false
+    },
+	"Grafton posessions":
+    {
+        "hidden": false
+    },
+	"Willow":
+    {
+        "hidden": true
+    },
+    "Willow street":
+    {
+        "hidden": true
+    },
+    "Willow objectives":
+    {
+        "hidden": false
+    },
+	"Willow posessions":
+    {
+        "hidden": false
+    },
+    "Woodwind":
+    {
+        "hidden": true
+    },
+    "Woodwind objectives":
+    {
+        "hidden": false
+    },
+	"Woodwind posessions":
+    {
+        "hidden": false
+    },
+    "Point hope":
+    {
+        "hidden": true
+    },
+    "Point hope objectives":
+    {
+        "hidden": false
+    },
+	"Point hope posessions":
+    {
+        "hidden": false
+    },
+    "Bleasdale":
+    {
+        "hidden": true
+    },
+    "Bleasdale objectives":
+    {
+        "hidden": false
+    },
+	"Bleasdale posessions":
+    {
+        "hidden": false
+    },
+    "Meadows restricted":
+    {
+        "hidden": true
+    },
+    "Meadows restricted objectives":
+    {
+        "hidden": false
+    },
+	"Meadows restricted posessions":
+    {
+        "hidden": false
+    },
+    "Meadows":
+    {
+        "hidden": true
+    },
+    "Meadows objectives":
+    {
+        "hidden": false
+    },
+	"Meadows posessions":
+    {
+        "hidden": false
+    },
+    "Prison":
+    {
+        "hidden": true
+    },
+    "Prison objectives":
+    {
+        "hidden": false
+    },
+	"Prison posessions":
+    {
+        "hidden": false
+    },
+    "Maple lodge":
+    {
+        "hidden": true
+    },
+    "Maple lodge objectives":
+    {
+        "hidden": false
+    },
+	"Maple lodge posessions":
+    {
+        "hidden": false
+    },
+    "High school":
+    {
+        "hidden": true
+    },
+    "High school objectives":
+    {
+        "hidden": false
+    },
+	"High school posessions":
+    {
+        "hidden": false
+    },
+	"Goal":
+    {
+        "hidden": false
+    },
+	"100":
+	{
+		"hidden": true
+	},
+	"Gambler":
+	{
+		"hidden": false
+	},
+	"Bones":
+    {
+        "hidden": false
+    },
+	"SanityObj":
+	{
+		"hidden": true
+	},
+	"ParamicObj":
+	{
+		"hidden": true
+	},
+	"EscapeObj":
+	{
+		"hidden": true
+	},
+	"FirelightObj":
+	{
+		"hidden": true
+	},
+	"RepelObj":
+	{
+		"hidden": true
+	},
+	"CleanseObj":
+	{
+		"hidden": true
+	},
+	"WitnessObj":
+	{
+		"hidden": true
+	},
+	"CrucifixObj":
+	{
+		"hidden": true
+	},
+	"SensorObj":
+	{
+		"hidden": true
+	},
+	"SoundRecObj":
+	{
+		"hidden": true
+	},
+	"VideoObj":
+	{
+		"hidden": true
+	},
+	"PhotoObj":
+	{
+		"hidden": true
+	},
+	"Apocalypse":
+	{
+		"hidden": false
+	},
+	"Apocalypse I":
+	{
+		"hidden": false
+	},
+	"Apoc I":
+	{
+		"hidden": false
+	},
+	"Apocalypse II":
+	{
+		"hidden": false
+	},
+	"Apoc II":
+	{
+		"hidden": false
+	},
+	"Apocalypse III":
+	{
+		"hidden": false
+	},
+	"Apoc III":
+	{
+		"hidden": false
+	}
+}

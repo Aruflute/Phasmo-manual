@@ -1,0 +1,2979 @@
+{
+    "data": [
+        {
+            "name": "Starter check - 1",
+            "category": ["Starter check"],
+			"place_item_category": ["Map unlocks"],
+			"dont_place_item_category": ["BigMaps"]
+        },
+        {
+            "name": "Starter check - 2",
+            "category": ["Starter check"],
+			"dont_place_item_category": ["BigMaps"]
+        },
+        {
+            "name": "Starter check - 3",
+            "category": ["Starter check"],
+			"dont_place_item_category": ["BigMaps"]
+        },
+		{
+			"name": "6 Tanglewood Drive completed - 1",
+			"category": ["Map completed", "Tanglewood"],
+            "requires": "|6 Tanglewood drive|"
+		},
+		{
+			"name": "6 Tanglewood Drive completed - 2",
+			"category": ["Map completed", "Tanglewood"],
+            "requires": "|6 Tanglewood drive|"
+		},
+		{
+			"name": "6 Tanglewood Drive completed - 3",
+			"category": ["Map completed", "Tanglewood"],
+            "requires": "|6 Tanglewood drive|"
+		},
+		{
+			"name": "6 Tanglewood Drive completed - 4",
+			"category": ["Map completed", "Tanglewood"],
+            "requires": "|6 Tanglewood drive|"
+		},
+		{
+			"name": "6 Tanglewood Drive completed - 5",
+			"category": ["Map completed", "Tanglewood"],
+            "requires": "|6 Tanglewood drive|"
+		},
+		{
+            "name": "Tanglewood drive - Bone",
+            "category": ["Bones", "Tanglewood"],
+            "requires": "|6 Tanglewood drive|"
+        },
+        {
+            "name": "Capture a photo of any successful reading on an EMF (Tanglewood)",
+            "category": ["Tanglewood objectives", "Tanglewood", "PhotoObj"],
+            "requires": "|@EMF:1| and |@Photo camera:1| and |6 Tanglewood drive|"
+        },
+        {
+            "name": "Capture a photo of the ghost (Tanglewood)",
+            "category": ["Tanglewood objectives", "Tanglewood", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |6 Tanglewood drive|"
+        },
+        {
+            "name": "Capture a video of the ghost (Tanglewood)",
+            "category": ["Tanglewood objectives", "Tanglewood", "VideoObj"],
+            "requires": "|@Video camera:1| and |6 Tanglewood drive|"
+        },
+		{
+            "name": "Capture 1 photo with a photo camera (Tanglewood)",
+            "category": ["Tanglewood objectives", "Tanglewood", "PhotoObj", "100"],
+            "requires": "|@Photo camera:1| and |6 Tanglewood drive|"
+        },
+		{
+            "name": "Capture 2 unique photos with a photo camera (Tanglewood)",
+            "category": ["Tanglewood objectives", "Tanglewood", "PhotoObj", "100"],
+            "requires": "|@Photo camera:1| and |6 Tanglewood drive|"
+        },
+        {
+            "name": "Capture 3 unique photos with a photo camera (Tanglewood)",
+            "category": ["Tanglewood objectives", "Tanglewood", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |6 Tanglewood drive|"
+        },
+		{
+            "name": "Capture 4 unique photos with a photo camera (Tanglewood)",
+            "category": ["Tanglewood objectives", "Tanglewood", "PhotoObj", "100"],
+            "requires": "|@Photo camera:1| and |6 Tanglewood drive|"
+        },
+		{
+            "name": "Capture 5 unique photos with a photo camera (Tanglewood)",
+            "category": ["Tanglewood objectives", "Tanglewood", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |6 Tanglewood drive|"
+        },
+		{
+            "name": "Capture 1 video with a video camera (Tanglewood)",
+            "category": ["Tanglewood objectives", "Tanglewood", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |6 Tanglewood drive|"
+        },
+		{
+            "name": "Capture 2 unique videos with a video camera (Tanglewood)",
+            "category": ["Tanglewood objectives", "Tanglewood", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |6 Tanglewood drive|"
+        },
+        {
+            "name": "Capture 3 unique videos with a video camera (Tanglewood)",
+            "category": ["Tanglewood objectives", "Tanglewood", "VideoObj"],
+            "requires": "|@Video camera:1| and |6 Tanglewood drive|"
+        },
+		{
+            "name": "Capture 4 unique videos with a video camera (Tanglewood)",
+            "category": ["Tanglewood objectives", "Tanglewood", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |6 Tanglewood drive|"
+        },
+		{
+            "name": "Capture 5 unique videos with a video camera (Tanglewood)",
+            "category": ["Tanglewood objectives", "Tanglewood", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |6 Tanglewood drive|"
+        },
+		{
+            "name": "Capture 1 paranormal sound with a sound recorder (Tanglewood)",
+            "category": ["Tanglewood objectives", "Tanglewood", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |6 Tanglewood drive|"
+        },
+        {
+            "name": "Capture 2 paranormal sound with a sound recorder (Tanglewood)",
+            "category": ["Tanglewood objectives", "Tanglewood", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |6 Tanglewood drive|"
+        },
+		{
+            "name": "Capture 3 paranormal sound with a sound recorder (Tanglewood)",
+            "category": ["Tanglewood objectives", "Tanglewood", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |6 Tanglewood drive|"
+        },
+        {
+            "name": "Detect a ghost presence with a motion sensor (Tanglewood)",
+            "category": ["Tanglewood objectives", "Tanglewood", "SensorObj"],
+            "requires": "|@Motion sensor:1| and |6 Tanglewood drive|"
+        },
+        {
+            "name": "Prevent ghost from hunting with a crucifix (Tanglewood)",
+            "category": ["Tanglewood objectives", "Tanglewood", "CrucifixObj"],
+            "requires": "|@Crucifix:1| and |6 Tanglewood drive|"
+        },
+        {
+            "name": "Have someone witness a ghost event (Tanglewood)",
+            "category": ["Tanglewood objectives", "Tanglewood", "WitnessObj"],
+            "requires": "|6 Tanglewood drive|"
+        },
+        {
+            "name": "Cleanse the area near the ghost using incense (Tanglewood)",
+            "category": ["Tanglewood objectives", "Tanglewood", "CleanseObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |6 Tanglewood drive|"
+        },
+        {
+            "name": "Repel the ghost with incense while it's chasing someone (Tanglewood)",
+            "category": ["Tanglewood objectives", "Tanglewood", "RepelObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |6 Tanglewood drive|"
+        },
+        {
+            "name": "Get the ghost to blow out a firelight (Tanglewood)",
+            "category": ["Tanglewood objectives", "Tanglewood", "FirelightObj"],
+            "requires": "|@Firelight:1| and |@Lighter:1| and |6 Tanglewood drive|"
+        },
+        {
+            "name": "Have a member of the team escape the ghost during a hunt (Tanglewood)",
+            "category": ["Tanglewood objectives", "Tanglewood", "EscapeObj"],
+            "requires": "|6 Tanglewood drive| and |@Lighter:1| and |@Smudges:1|"
+        },
+        {
+            "name": "Get the average sanity down to 25% (Tanglewood)",
+            "category": ["Tanglewood objectives", "Tanglewood", "SanityObj"],
+            "requires": "|6 Tanglewood drive|"
+        },
+        {
+            "name": "Detect a paranormal sound with a parabolic microphone (Tanglewood)",
+            "category": ["Tanglewood objectives", "Tanglewood", "ParamicObj"],
+            "requires": "|@Parabolic microphone:1| and |6 Tanglewood drive|"
+        },
+        {
+            "name": "Find a music box (Tanglewood)",
+            "category": ["Tanglewood posessions", "Tanglewood"],
+            "requires": "|6 Tanglewood drive|"
+        },
+        {
+            "name": "Find a haunted mirror (Tanglewood)",
+            "category": ["Tanglewood posessions", "Tanglewood"],
+            "requires": "|6 Tanglewood drive|"
+        },
+        {
+            "name": "Find a Ouija board (Tanglewood)",
+            "category": ["Tanglewood posessions", "Tanglewood"],
+            "requires": "|6 Tanglewood drive|"
+        },
+        {
+            "name": "Find a summoning circle (Tanglewood)",
+            "category": ["Tanglewood posessions", "Tanglewood"],
+            "requires": "|6 Tanglewood drive|"
+        },
+        {
+            "name": "Find a deck of tarot cards (Tanglewood)",
+            "category": ["Tanglewood posessions", "Tanglewood"],
+            "requires": "|6 Tanglewood drive|"
+        },
+        {
+            "name": "Find a voodoo doll (Tanglewood)",
+            "category": ["Tanglewood posessions", "Tanglewood"],
+            "requires": "|6 Tanglewood drive|"
+        },
+        {
+            "name": "Find a monkey paw  (Tanglewood)",
+            "category": ["Tanglewood posessions", "Tanglewood"],
+            "requires": "|6 Tanglewood drive|",
+            "_comment": "---------------------------------------------------------------------------"
+        },
+        {
+            "name": "42 Edgefield Road completed - 1",
+            "category": ["Map completed", "Edgefield"],
+            "requires": "|42 Edgefield road|"
+        },
+		{
+            "name": "42 Edgefield Road completed - 2",
+            "category": ["Map completed", "Edgefield"],
+            "requires": "|42 Edgefield road|"
+        },
+		{
+            "name": "42 Edgefield Road completed - 3",
+            "category": ["Map completed", "Edgefield"],
+            "requires": "|42 Edgefield road|"
+        },
+		{
+            "name": "42 Edgefield Road completed - 4",
+            "category": ["Map completed", "Edgefield"],
+            "requires": "|42 Edgefield road|"
+        },
+		{
+            "name": "42 Edgefield Road completed - 5",
+            "category": ["Map completed", "Edgefield"],
+            "requires": "|42 Edgefield road|"
+        },
+		{
+            "name": "Edgefield road - Bone",
+            "category": ["Bones", "Edgefield"],
+            "requires": "|42 Edgefield road|"
+        },
+        {
+            "name": "Capture a photo of any successful reading on an EMF (Edgefield)",
+            "category": ["Edgefield objectives", "Edgefield", "PhotoObj"],
+            "requires": "|@EMF:1| and |@Photo camera:1| and |42 Edgefield road|"
+        },
+        {
+            "name": "Capture a photo of the ghost (Edgefield)",
+            "category": ["Edgefield objectives", "Edgefield", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |42 Edgefield road|"
+        },
+        {
+            "name": "Capture a video of the ghost (Edgefield)",
+            "category": ["Edgefield objectives", "Edgefield", "VideoObj"],
+            "requires": "|@Video camera:1| and |42 Edgefield road|"
+        },
+		{
+            "name": "Capture 1 photo with a photo camera (Edgefield)",
+            "category": ["Edgefield objectives", "Edgefield", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |42 Edgefield road|"
+        },
+		{
+            "name": "Capture 2 unique photos with a photo camera (Edgefield)",
+            "category": ["Edgefield objectives", "Edgefield", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |42 Edgefield road|"
+        },
+        {
+            "name": "Capture 3 unique photos with a photo camera (Edgefield)",
+            "category": ["Edgefield objectives", "Edgefield", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |42 Edgefield road|"
+        },
+		{
+            "name": "Capture 4 unique photos with a photo camera (Edgefield)",
+            "category": ["Edgefield objectives", "Edgefield", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |42 Edgefield road|"
+        },
+		{
+            "name": "Capture 5 unique photos with a photo camera (Edgefield)",
+            "category": ["Edgefield objectives", "Edgefield", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |42 Edgefield road|"
+        },
+		{
+            "name": "Capture 1 video with a video camera (Edgefield)",
+            "category": ["Edgefield objectives", "Edgefield", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |42 Edgefield road|"
+        },
+		{
+            "name": "Capture 2 unique video with a video camera (Edgefield)",
+            "category": ["Edgefield objectives", "Edgefield", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |42 Edgefield road|"
+        },
+        {
+            "name": "Capture 3 unique video with a video camera (Edgefield)",
+            "category": ["Edgefield objectives", "Edgefield", "VideoObj"],
+            "requires": "|@Video camera:1| and |42 Edgefield road|"
+        },
+		{
+            "name": "Capture 4 unique video with a video camera (Edgefield)",
+            "category": ["Edgefield objectives", "Edgefield", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |42 Edgefield road|"
+        },
+		{
+            "name": "Capture 5 unique video with a video camera (Edgefield)",
+            "category": ["Edgefield objectives", "Edgefield", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |42 Edgefield road|"
+        },
+		{
+            "name": "Capture 1 paranormal sound with a sound recorder (Edgefield)",
+            "category": ["Edgefield objectives", "Edgefield", "SoundRecObj", "100"],
+            "requires": "|@Sound recorder:1| and |42 Edgefield road|"
+        },
+        {
+            "name": "Capture 2 paranormal sound with a sound recorder (Edgefield)",
+            "category": ["Edgefield objectives", "Edgefield", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |42 Edgefield road|"
+        },
+		{
+            "name": "Capture 3 paranormal sound with a sound recorder (Edgefield)",
+            "category": ["Edgefield objectives", "Edgefield", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |42 Edgefield road|"
+        },
+        {
+            "name": "Detect a ghost presence with a motion sensor (Edgefield)",
+            "category": ["Edgefield objectives", "Edgefield", "SensorObj"],
+            "requires": "|@Motion sensor:1| and |42 Edgefield road|"
+        },
+        {
+            "name": "Prevent ghost from hunting with a crucifix (Edgefield)",
+            "category": ["Edgefield objectives", "Edgefield", "CrucifixObj"],
+            "requires": "|@Crucifix:1| and |42 Edgefield road|"
+        },
+        {
+            "name": "Have someone witness a ghost event (Edgefield)",
+            "category": ["Edgefield objectives", "Edgefield", "WitnessObj"],
+            "requires": "|42 Edgefield road|"
+        },
+        {
+            "name": "Cleanse the area near the ghost using incense (Edgefield)",
+            "category": ["Edgefield objectives", "Edgefield", "CleanseObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |42 Edgefield road|"
+        },
+        {
+            "name": "Repel the ghost with incense while it's chasing someone (Edgefield)",
+            "category": ["Edgefield objectives", "Edgefield", "RepelObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |42 Edgefield road|"
+        },
+        {
+            "name": "Get the ghost to blow out a firelight (Edgefield)",
+            "category": ["Edgefield objectives", "Edgefield", "FirelightObj"],
+            "requires": "|@Firelight:1| and |@Lighter:1| and |42 Edgefield road|"
+        },
+        {
+            "name": "Have a member of the team escape the ghost during a hunt (Edgefield)",
+            "category": ["Edgefield objectives", "Edgefield", "EscapeObj"],
+            "requires": "|42 Edgefield road| and |@Lighter:1| and |@Smudges:1|"
+        },
+        {
+            "name": "Get the average sanity down to 25% (Edgefield)",
+            "category": ["Edgefield objectives", "Edgefield", "SanityObj"],
+            "requires": "|42 Edgefield road|"
+        },
+        {
+            "name": "Detect a paranormal sound with a parabolic microphone (Edgefield)",
+            "category": ["Edgefield objectives", "Edgefield", "ParamicObj"],
+            "requires": "|@Parabolic microphone:1| and |42 Edgefield road|"
+        },
+        {
+            "name": "Find a music box (Edgefield)",
+            "category": ["Edgefield posessions", "Edgefield"],
+            "requires": "|42 Edgefield road|"
+        },
+        {
+            "name": "Find a haunted mirror (Edgefield)",
+            "category": ["Edgefield posessions", "Edgefield"],
+            "requires": "|42 Edgefield road|"
+        },
+        {
+            "name": "Find a Ouija board (Edgefield)",
+            "category": ["Edgefield posessions", "Edgefield"],
+            "requires": "|42 Edgefield road|"
+        },
+        {
+            "name": "Find a summoning circle (Edgefield)",
+            "category": ["Edgefield posessions", "Edgefield"],
+            "requires": "|42 Edgefield road|"
+        },
+        {
+            "name": "Find a deck of tarot cards (Edgefield)",
+            "category": ["Edgefield posessions", "Edgefield"],
+            "requires": "|42 Edgefield road|"
+        },
+        {
+            "name": "Find a voodoo doll (Edgefield)",
+            "category": ["Edgefield posessions", "Edgefield"],
+            "requires": "|42 Edgefield road|"
+        },
+        {
+            "name": "Find a monkey paw  (Edgefield)",
+            "category": ["Edgefield posessions", "Edgefield"],
+            "requires": "|42 Edgefield road|",
+            "_comment": "---------------------------------------------------------------------------"
+        },
+        {
+            "name": "10 Ridgeview court completed - 1",
+            "category": ["Map completed", "Ridgeview"],
+            "requires": "|10 Ridgeview court|"
+        },
+		{
+            "name": "10 Ridgeview court completed - 2",
+            "category": ["Map completed", "Ridgeview"],
+            "requires": "|10 Ridgeview court|"
+        },
+		{
+            "name": "10 Ridgeview court completed - 3",
+            "category": ["Map completed", "Ridgeview"],
+            "requires": "|10 Ridgeview court|"
+        },
+		{
+            "name": "10 Ridgeview court completed - 4",
+            "category": ["Map completed", "Ridgeview"],
+            "requires": "|10 Ridgeview court|"
+        },
+		{
+            "name": "10 Ridgeview court completed - 5",
+            "category": ["Map completed", "Ridgeview"],
+            "requires": "|10 Ridgeview court|"
+        },
+		{
+            "name": "Ridgeview court - Bone",
+            "category": ["Bones", "Ridgeview"],
+            "requires": "|10 Ridgeview court|"
+        },
+        {
+            "name": "Capture a photo of any successful reading on an EMF (Ridgeview)",
+            "category": ["Ridgeview objectives", "Ridgeview", "PhotoObj"],
+            "requires": "|@EMF:1| and |@Photo camera:1| and |10 Ridgeview court|"
+        },
+        {
+            "name": "Capture a photo of the ghost (Ridgeview)",
+            "category": ["Ridgeview objectives", "Ridgeview", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |10 Ridgeview court|"
+        },
+        {
+            "name": "Capture a video of the ghost (Ridgeview)",
+            "category": ["Ridgeview objectives", "Ridgeview", "VideoObj"],
+            "requires": "|@Video camera:1| and |10 Ridgeview court|"
+        },
+		{
+            "name": "Capture 1 photo with a photo camera (Ridgeview)",
+            "category": ["Ridgeview objectives", "Ridgeview", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |10 Ridgeview court|"
+        },
+		{
+            "name": "Capture 2 unique photos with a photo camera (Ridgeview)",
+            "category": ["Ridgeview objectives", "Ridgeview", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |10 Ridgeview court|"
+        },
+        {
+            "name": "Capture 3 unique photos with a photo camera (Ridgeview)",
+            "category": ["Ridgeview objectives", "Ridgeview", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |10 Ridgeview court|"
+        },
+		{
+            "name": "Capture 4 unique photos with a photo camera (Ridgeview)",
+            "category": ["Ridgeview objectives", "Ridgeview", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |10 Ridgeview court|"
+        },
+		{
+            "name": "Capture 5 unique photos with a photo camera (Ridgeview)",
+            "category": ["Ridgeview objectives", "Ridgeview", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |10 Ridgeview court|"
+        },
+		{
+            "name": "Capture 1 video with a video camera (Ridgeview)",
+            "category": ["Ridgeview objectives", "Ridgeview", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |10 Ridgeview court|"
+        },
+		{
+            "name": "Capture 2 unique video with a video camera (Ridgeview)",
+            "category": ["Ridgeview objectives", "Ridgeview", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |10 Ridgeview court|"
+        },
+        {
+            "name": "Capture 3 unique video with a video camera (Ridgeview)",
+            "category": ["Ridgeview objectives", "Ridgeview", "VideoObj"],
+            "requires": "|@Video camera:1| and |10 Ridgeview court|"
+        },
+		{
+            "name": "Capture 4 unique video with a video camera (Ridgeview)",
+            "category": ["Ridgeview objectives", "Ridgeview", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |10 Ridgeview court|"
+        },
+		{
+            "name": "Capture 5 unique video with a video camera (Ridgeview)",
+            "category": ["Ridgeview objectives", "Ridgeview", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |10 Ridgeview court|"
+        },
+		{
+            "name": "Capture 1 paranormal sound with a sound recorder (Ridgeview)",
+            "category": ["Ridgeview objectives", "Ridgeview", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |10 Ridgeview court|"
+        },
+        {
+            "name": "Capture 2 paranormal sound with a sound recorder (Ridgeview)",
+            "category": ["Ridgeview objectives", "Ridgeview", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |10 Ridgeview court|"
+        },
+		{
+            "name": "Capture 3 paranormal sound with a sound recorder (Ridgeview)",
+            "category": ["Ridgeview objectives", "Ridgeview", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |10 Ridgeview court|"
+        },
+        {
+            "name": "Detect a ghost presence with a motion sensor (Ridgeview)",
+            "category": ["Ridgeview objectives", "Ridgeview", "SensorObj"],
+            "requires": "|@Motion sensor:1| and |10 Ridgeview court|"
+        },
+        {
+            "name": "Prevent ghost from hunting with a crucifix (Ridgeview)",
+            "category": ["Ridgeview objectives", "Ridgeview", "CrucifixObj"],
+            "requires": "|@Crucifix:1| and |10 Ridgeview court|"
+        },
+        {
+            "name": "Have someone witness a ghost event (Ridgeview)",
+            "category": ["Ridgeview objectives", "Ridgeview", "WitnessObj"],
+            "requires": "|10 Ridgeview court|"
+        },
+        {
+            "name": "Cleanse the area near the ghost using incense (Ridgeview)",
+            "category": ["Ridgeview objectives", "Ridgeview", "CleanseObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |10 Ridgeview court|"
+        },
+        {
+            "name": "Repel the ghost with incense while it's chasing someone (Ridgeview)",
+            "category": ["Ridgeview objectives", "Ridgeview", "RepelObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |10 Ridgeview court|"
+        },
+        {
+            "name": "Get the ghost to blow out a firelight (Ridgeview)",
+            "category": ["Ridgeview objectives", "Ridgeview", "FirelightObj"],
+            "requires": "|@Firelight:1| and |@Lighter:1| and |10 Ridgeview court|"
+        },
+        {
+            "name": "Have a member of the team escape the ghost during a hunt (Ridgeview)",
+            "category": ["Ridgeview objectives", "Ridgeview", "EscapeObj"],
+            "requires": "|10 Ridgeview court| and |@Lighter:1| and |@Smudges:1|"
+        },
+        {
+            "name": "Get the average sanity down to 25% (Ridgeview)",
+            "category": ["Ridgeview objectives", "Ridgeview", "SanityObj"],
+            "requires": "|10 Ridgeview court|"
+        },
+        {
+            "name": "Detect a paranormal sound with a parabolic microphone (Ridgeview)",
+            "category": ["Ridgeview objectives", "Ridgeview", "ParamicObj"],
+            "requires": "|@Parabolic microphone:1| and |10 Ridgeview court|"
+        },
+		{
+            "name": "Find a music box (Ridgeview)",
+            "category": ["Ridgeview posessions", "Ridgeview"],
+            "requires": "|10 Ridgeview court|"
+        },
+        {
+            "name": "Find a haunted mirror (Ridgeview)",
+            "category": ["Ridgeview posessions", "Ridgeview"],
+            "requires": "|10 Ridgeview court|"
+        },
+        {
+            "name": "Find a Ouija board (Ridgeview)",
+            "category": ["Ridgeview posessions", "Ridgeview"],
+            "requires": "|10 Ridgeview court|"
+        },
+        {
+            "name": "Find a summoning circle (Ridgeview)",
+            "category": ["Ridgeview posessions", "Ridgeview"],
+            "requires": "|10 Ridgeview court|"
+        },
+        {
+            "name": "Find a deck of tarot cards (Ridgeview)",
+            "category": ["Ridgeview posessions", "Ridgeview"],
+            "requires": "|10 Ridgeview court|"
+        },
+        {
+            "name": "Find a voodoo doll (Ridgeview)",
+            "category": ["Ridgeview posessions", "Ridgeview"],
+            "requires": "|10 Ridgeview court|"
+        },
+        {
+            "name": "Find a monkey paw  (Ridgeview)",
+            "category": ["Ridgeview posessions", "Ridgeview"],
+            "requires": "|10 Ridgeview court|",
+            "_comment": "---------------------------------------------------------------------------"
+        },
+        {
+            "name": "Nell's diner completed - 1",
+            "category": ["Map completed", "Diner"],
+            "requires": "|Nell's diner|"
+        },
+		{
+            "name": "Nell's diner completed - 2",
+            "category": ["Map completed", "Diner"],
+            "requires": "|Nell's diner|"
+        },
+		{
+            "name": "Nell's diner completed - 3",
+            "category": ["Map completed", "Diner"],
+            "requires": "|Nell's diner|"
+        },
+		{
+            "name": "Nell's diner completed - 4",
+            "category": ["Map completed", "Diner"],
+            "requires": "|Nell's diner|"
+        },
+		{
+            "name": "Nell's diner completed - 5",
+            "category": ["Map completed", "Diner"],
+            "requires": "|Nell's diner|"
+        },
+		{
+            "name": "Nell's diner - Bone",
+            "category": ["Bones", "Diner"],
+            "requires": "|Nell's diner|"
+        },
+        {
+            "name": "Capture a photo of any successful reading on an EMF (Diner)",
+            "category": ["Nell objectives", "Diner", "PhotoObj"],
+            "requires": "|@EMF:1| and |@Photo camera:1| and |Nell's diner|"
+        },
+        {
+            "name": "Capture a photo of the ghost (Diner)",
+            "category": ["Nell objectives", "Diner", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Nell's diner|"
+        },
+        {
+            "name": "Capture a video of the ghost (Diner)",
+            "category": ["Nell objectives", "Diner", "VideoObj"],
+            "requires": "|@Video camera:1| and |Nell's diner|"
+        },
+		{
+            "name": "Capture 1 photo with a photo camera (Diner)",
+            "category": ["Nell objectives", "Diner", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Nell's diner|"
+        },
+		{
+            "name": "Capture 2 unique photos with a photo camera (Diner)",
+            "category": ["Nell objectives", "Diner", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Nell's diner|"
+        },
+        {
+            "name": "Capture 3 unique photos with a photo camera (Diner)",
+            "category": ["Nell objectives", "Diner", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Nell's diner|"
+        },
+		{
+            "name": "Capture 4 unique photos with a photo camera (Diner)",
+            "category": ["Nell objectives", "Diner", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Nell's diner|"
+        },
+		{
+            "name": "Capture 5 unique photos with a photo camera (Diner)",
+            "category": ["Nell objectives", "Diner", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Nell's diner|"
+        },
+		{
+            "name": "Capture 1 video with a video camera (Diner)",
+            "category": ["Nell objectives", "Diner", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Nell's diner|"
+        },
+		{
+            "name": "Capture 2 unique video with a video camera (Diner)",
+            "category": ["Nell objectives", "Diner", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Nell's diner|"
+        },
+        {
+            "name": "Capture 3 unique video with a video camera (Diner)",
+            "category": ["Nell objectives", "Diner", "VideoObj"],
+            "requires": "|@Video camera:1| and |Nell's diner|"
+        },
+		{
+            "name": "Capture 4 unique video with a video camera (Diner)",
+            "category": ["Nell objectives", "Diner", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Nell's diner|"
+        },
+		{
+            "name": "Capture 5 unique video with a video camera (Diner)",
+            "category": ["Nell objectives", "Diner", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Nell's diner|"
+        },
+		{
+            "name": "Capture 1 paranormal sound with a sound recorder (Diner)",
+            "category": ["Nell objectives", "Diner", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Nell's diner|"
+        },
+        {
+            "name": "Capture 2 paranormal sound with a sound recorder (Diner)",
+            "category": ["Nell objectives", "Diner", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Nell's diner|"
+        },
+		{
+            "name": "Capture 3 paranormal sound with a sound recorder (Diner)",
+            "category": ["Nell objectives", "Diner", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Nell's diner|"
+        },
+        {
+            "name": "Detect a ghost presence with a motion sensor (Diner)",
+            "category": ["Nell objectives", "Diner", "SensorObj"],
+            "requires": "|@Motion sensor:1| and |Nell's diner|"
+        },
+        {
+            "name": "Prevent ghost from hunting with a crucifix (Diner)",
+            "category": ["Nell objectives", "Diner", "CrucifixObj"],
+            "requires": "|@Crucifix:1| and |Nell's diner|"
+        },
+        {
+            "name": "Have someone witness a ghost event (Diner)",
+            "category": ["Nell objectives", "Diner", "WitnessObj"],
+            "requires": "|Nell's diner|"
+        },
+        {
+            "name": "Cleanse the area near the ghost using incense (Diner)",
+            "category": ["Nell objectives", "Diner", "CleanseObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Nell's diner|"
+        },
+        {
+            "name": "Repel the ghost with incense while it's chasing someone (Diner)",
+            "category": ["Nell objectives", "Diner", "RepelObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Nell's diner|"
+        },
+        {
+            "name": "Get the ghost to blow out a firelight (Diner)",
+            "category": ["Nell objectives", "Diner", "FirelightObj"],
+            "requires": "|@Firelight:1| and |@Lighter:1| and |Nell's diner|"
+        },
+        {
+            "name": "Have a member of the team escape the ghost during a hunt (Diner)",
+            "category": ["Nell objectives", "Diner", "EscapeObj"],
+            "requires": "|Nell's diner| and |@Lighter:1| and |@Smudges:1|"
+        },
+        {
+            "name": "Get the average sanity down to 25% (Diner)",
+            "category": ["Nell objectives", "Diner", "SanityObj"],
+            "requires": "|Nell's diner|"
+        },
+        {
+            "name": "Detect a paranormal sound with a parabolic microphone (Diner)",
+            "category": ["Nell objectives", "Diner", "ParamicObj"],
+            "requires": "|@Parabolic microphone:1| and |Nell's diner|"
+        },
+		{
+            "name": "Find a music box (Diner)",
+            "category": ["Nell posessions", "Diner"],
+            "requires": "|Nell's diner|"
+        },
+        {
+            "name": "Find a haunted mirror (Diner)",
+            "category": ["Nell posessions", "Diner"],
+            "requires": "|Nell's diner|"
+        },
+        {
+            "name": "Find a Ouija board (Diner)",
+            "category": ["Nell posessions", "Diner"],
+            "requires": "|Nell's diner|"
+        },
+        {
+            "name": "Find a summoning circle (Diner)",
+            "category": ["Nell posessions", "Diner"],
+            "requires": "|Nell's diner|"
+        },
+        {
+            "name": "Find a deck of tarot cards (Diner)",
+            "category": ["Nell posessions", "Diner"],
+            "requires": "|Nell's diner|"
+        },
+        {
+            "name": "Find a voodoo doll (Diner)",
+            "category": ["Nell posessions", "Diner"],
+            "requires": "|Nell's diner|"
+        },
+        {
+            "name": "Find a monkey paw  (Diner)",
+            "category": ["Nell posessions", "Diner"],
+            "requires": "|Nell's diner|",
+            "_comment": "---------------------------------------------------------------------------"
+        },
+        {
+            "name": "Grafton farmhouse completed - 1",
+            "category": ["Map completed", "Grafton"],
+            "requires": "|Grafton farmhouse|"
+        },
+		{
+            "name": "Grafton farmhouse completed - 2",
+            "category": ["Map completed", "Grafton"],
+            "requires": "|Grafton farmhouse|"
+        },
+		{
+            "name": "Grafton farmhouse completed - 3",
+            "category": ["Map completed", "Grafton"],
+            "requires": "|Grafton farmhouse|"
+        },
+		{
+            "name": "Grafton farmhouse completed - 4",
+            "category": ["Map completed", "Grafton"],
+            "requires": "|Grafton farmhouse|"
+        },
+		{
+            "name": "Grafton farmhouse completed - 5",
+            "category": ["Map completed", "Grafton"],
+            "requires": "|Grafton farmhouse|"
+        },
+		{
+            "name": "Grafton farmhouse - Bone",
+            "category": ["Bones", "Grafton"],
+            "requires": "|Grafton farmhouse|"
+        },
+        {
+            "name": "Capture a photo of any successful reading on an EMF (Grafton)",
+            "category": ["Grafton objectives", "Grafton", "PhotoObj"],
+            "requires": "|@EMF:1| and |@Photo camera:1| and |Grafton farmhouse|"
+        },
+        {
+            "name": "Capture a photo of the ghost (Grafton)",
+            "category": ["Grafton objectives", "Grafton", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Grafton farmhouse|"
+        },
+        {
+            "name": "Capture a video of the ghost (Grafton)",
+            "category": ["Grafton objectives", "Grafton", "VideoObj"],
+            "requires": "|@Video camera:1| and |Grafton farmhouse|"
+        },
+        {
+            "name": "Capture 3 unique photos with a photo camera (Grafton)",
+            "category": ["Grafton objectives", "Grafton", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Grafton farmhouse|"
+        },
+		{
+            "name": "Capture 5 unique photos with a photo camera (Grafton)",
+            "category": ["Grafton objectives", "Grafton", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Grafton farmhouse|"
+        },
+        {
+            "name": "Capture 3 unique video with a video camera (Grafton)",
+            "category": ["Grafton objectives", "Grafton", "VideoObj"],
+            "requires": "|@Video camera:1| and |Grafton farmhouse|"
+        },
+		{
+            "name": "Capture 5 unique video with a video camera (Grafton)",
+            "category": ["Grafton objectives", "Grafton", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Grafton farmhouse|"
+        },
+        {
+            "name": "Capture 2 paranormal sound with a sound recorder (Grafton)",
+            "category": ["Grafton objectives", "Grafton", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Grafton farmhouse|"
+        },
+		{
+            "name": "Capture 3 paranormal sound with a sound recorder (Grafton)",
+            "category": ["Grafton objectives", "Grafton", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Grafton farmhouse|"
+        },
+        {
+            "name": "Detect a ghost presence with a motion sensor (Grafton)",
+            "category": ["Grafton objectives", "Grafton", "SensorObj"],
+            "requires": "|@Motion sensor:1| and |Grafton farmhouse|"
+        },
+        {
+            "name": "Prevent ghost from hunting with a crucifix (Grafton)",
+            "category": ["Grafton objectives", "Grafton", "CrucifixObj"],
+            "requires": "|@Crucifix:1| and |Grafton farmhouse|"
+        },
+        {
+            "name": "Have someone witness a ghost event (Grafton)",
+            "category": ["Grafton objectives", "Grafton", "WitnessObj"],
+            "requires": "|Grafton farmhouse|"
+        },
+        {
+            "name": "Cleanse the area near the ghost using incense (Grafton)",
+            "category": ["Grafton objectives", "Grafton", "CleanseObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Grafton farmhouse|"
+        },
+        {
+            "name": "Repel the ghost with incense while it's chasing someone (Grafton)",
+            "category": ["Grafton objectives", "Grafton", "RepelObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Grafton farmhouse|"
+        },
+        {
+            "name": "Get the ghost to blow out a firelight (Grafton)",
+            "category": ["Grafton objectives", "Grafton", "FirelightObj"],
+            "requires": "|@Firelight:1| and |@Lighter:1| and |Grafton farmhouse|"
+        },
+        {
+            "name": "Have a member of the team escape the ghost during a hunt (Grafton)",
+            "category": ["Grafton objectives", "Grafton", "EscapeObj"],
+            "requires": "|Grafton farmhouse| and |@Lighter:1| and |@Smudges:1|"
+        },
+        {
+            "name": "Get the average sanity down to 25% (Grafton)",
+            "category": ["Grafton objectives", "Grafton", "SanityObj"],
+            "requires": "|Grafton farmhouse|"
+        },
+        {
+            "name": "Detect a paranormal sound with a parabolic microphone (Grafton)",
+            "category": ["Grafton objectives", "Grafton", "ParamicObj"],
+            "requires": "|@Parabolic microphone:1| and |Grafton farmhouse|"
+        },
+		{
+            "name": "Find a music box (Grafton)",
+            "category": ["Grafton posessions", "Grafton"],
+            "requires": "|Grafton farmhouse|"
+        },
+        {
+            "name": "Find a haunted mirror (Grafton)",
+            "category": ["Grafton posessions", "Grafton"],
+            "requires": "|Grafton farmhouse|"
+        },
+        {
+            "name": "Find a Ouija board (Grafton)",
+            "category": ["Grafton posessions", "Grafton"],
+            "requires": "|Grafton farmhouse|"
+        },
+        {
+            "name": "Find a summoning circle (Grafton)",
+            "category": ["Grafton posessions", "Grafton"],
+            "requires": "|Grafton farmhouse|"
+        },
+        {
+            "name": "Find a deck of tarot cards (Grafton)",
+            "category": ["Grafton posessions", "Grafton"],
+            "requires": "|Grafton farmhouse|"
+        },
+        {
+            "name": "Find a voodoo doll (Grafton)",
+            "category": ["Grafton posessions", "Grafton"],
+            "requires": "|Grafton farmhouse|"
+        },
+        {
+            "name": "Find a monkey paw  (Grafton)",
+            "category": ["Grafton posessions", "Grafton"],
+            "requires": "|Grafton farmhouse|",
+            "_comment": "---------------------------------------------------------------------------"
+        },
+        {
+            "name": "13 Willow street completed - 1",
+            "category": ["Map completed", "Willow street"],
+            "requires": "|13 Willow street|"
+        },
+		{
+            "name": "13 Willow street completed - 2",
+            "category": ["Map completed", "Willow street"],
+            "requires": "|13 Willow street|"
+        },
+		{
+            "name": "13 Willow street completed - 3",
+            "category": ["Map completed", "Willow street"],
+            "requires": "|13 Willow street|"
+        },
+		{
+            "name": "13 Willow street completed - 4",
+            "category": ["Map completed", "Willow street"],
+            "requires": "|13 Willow street|"
+        },
+		{
+            "name": "13 Willow street completed - 5",
+            "category": ["Map completed", "Willow street"],
+            "requires": "|13 Willow street|"
+        },
+		{
+            "name": "Willow street - Bone",
+            "category": ["Bones", "Willow street"],
+            "requires": "|13 Willow street|"
+        },
+        {
+            "name": "Capture a photo of any successful reading on an EMF (Willow street)",
+            "category": ["Willow objectives", "Willow street", "PhotoObj"],
+            "requires": "|@EMF:1| and |@Photo camera:1| and |13 Willow street|"
+        },
+        {
+            "name": "Capture a photo of the ghost (Willow street)",
+            "category": ["Willow objectives", "Willow street", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |13 Willow street|"
+        },
+        {
+            "name": "Capture a video of the ghost (Willow street)",
+            "category": ["Willow objectives", "Willow street", "VideoObj"],
+            "requires": "|@Video camera:1| and |13 Willow street|"
+        },
+		{
+            "name": "Capture 1 unique photos with a photo camera (Willow street)",
+            "category": ["Willow objectives", "Willow street", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |13 Willow street|"
+        },
+		{
+            "name": "Capture 2 unique photos with a photo camera (Willow street)",
+            "category": ["Willow objectives", "Willow street", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |13 Willow street|"
+        },
+        {
+            "name": "Capture 3 unique photos with a photo camera (Willow street)",
+            "category": ["Willow objectives", "Willow street", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |13 Willow street|"
+        },
+		{
+            "name": "Capture 4 unique photos with a photo camera (Willow street)",
+            "category": ["Willow objectives", "Willow street", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |13 Willow street|"
+        },
+		{
+            "name": "Capture 5 unique photos with a photo camera (Willow street)",
+            "category": ["Willow objectives", "Willow street", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |13 Willow street|"
+        },
+		{
+            "name": "Capture 1 video with a video camera (Willow street)",
+            "category": ["Willow objectives", "Willow street", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |13 Willow street|"
+        },
+		{
+            "name": "Capture 2 unique video with a video camera (Willow street)",
+            "category": ["Willow objectives", "Willow street", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |13 Willow street|"
+        },
+        {
+            "name": "Capture 3 unique video with a video camera (Willow street)",
+            "category": ["Willow objectives", "Willow street", "VideoObj"],
+            "requires": "|@Video camera:1| and |13 Willow street|"
+        },
+		{
+            "name": "Capture 4 unique video with a video camera (Willow street)",
+            "category": ["Willow objectives", "Willow street", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |13 Willow street|"
+        },
+		{
+            "name": "Capture 5 unique video with a video camera (Willow street)",
+            "category": ["Willow objectives", "Willow street", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |13 Willow street|"
+        },
+		{
+            "name": "Capture 1 paranormal sound with a sound recorder (Willow street)",
+            "category": ["Willow objectives", "Willow street", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |13 Willow street|"
+        },
+        {
+            "name": "Capture 2 paranormal sound with a sound recorder (Willow street)",
+            "category": ["Willow objectives", "Willow street", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |13 Willow street|"
+        },
+		{
+            "name": "Capture 3 paranormal sound with a sound recorder (Willow street)",
+            "category": ["Willow objectives", "Willow street", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |13 Willow street|"
+        },
+        {
+            "name": "Detect a ghost presence with a motion sensor (Willow street)",
+            "category": ["Willow objectives", "Willow street", "SensorObj"],
+            "requires": "|@Motion sensor:1| and |13 Willow street|"
+        },
+        {
+            "name": "Prevent ghost from hunting with a crucifix (Willow street)",
+            "category": ["Willow objectives", "Willow street", "CrucifixObj"],
+            "requires": "|@Crucifix:1| and |13 Willow street|"
+        },
+        {
+            "name": "Have someone witness a ghost event (Willow street)",
+            "category": ["Willow objectives", "Willow street", "WitnessObj"],
+            "requires": "|13 Willow street|"
+        },
+        {
+            "name": "Cleanse the area near the ghost using incense (Willow street)",
+            "category": ["Willow objectives", "Willow street", "CleanseObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |13 Willow street|"
+        },
+        {
+            "name": "Repel the ghost with incense while it's chasing someone (Willow street)",
+            "category": ["Willow objectives", "Willow street", "RepelObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |13 Willow street|"
+        },
+        {
+            "name": "Get the ghost to blow out a firelight (Willow street)",
+            "category": ["Willow objectives", "Willow street", "FirelightObj"],
+            "requires": "|@Firelight:1| and |@Lighter:1| and |13 Willow street|"
+        },
+        {
+            "name": "Have a member of the team escape the ghost during a hunt (Willow street)",
+            "category": ["Willow objectives", "Willow street", "EscapeObj"],
+            "requires": "|13 Willow street| and |@Lighter:1| and |@Smudges:1|"
+        },
+        {
+            "name": "Get the average sanity down to 25% (Willow street)",
+            "category": ["Willow objectives", "Willow street", "SanityObj"],
+            "requires": "|13 Willow street|"
+        },
+        {
+            "name": "Detect a paranormal sound with a parabolic microphone (Willow street)",
+            "category": ["Willow objectives", "Willow street", "ParamicObj"],
+            "requires": "|@Parabolic microphone:1| and |13 Willow street|"
+        },
+		{
+            "name": "Find a music box (Willow street)",
+            "category": ["Willow posessions", "Willow street"],
+            "requires": "|13 Willow street|"
+        },
+        {
+            "name": "Find a haunted mirror (Willow street)",
+            "category": ["Willow posessions", "Willow street"],
+            "requires": "|13 Willow street|"
+        },
+        {
+            "name": "Find a Ouija board (Willow street)",
+            "category": ["Willow posessions", "Willow street"],
+            "requires": "|13 Willow street|"
+        },
+        {
+            "name": "Find a summoning circle (Willow street)",
+            "category": ["Willow posessions", "Willow street"],
+            "requires": "|13 Willow street|"
+        },
+        {
+            "name": "Find a deck of tarot cards (Willow street)",
+            "category": ["Willow posessions", "Willow street"],
+            "requires": "|13 Willow street|"
+        },
+        {
+            "name": "Find a voodoo doll (Willow street)",
+            "category": ["Willow posessions", "Willow street"],
+            "requires": "|13 Willow street|"
+        },
+        {
+            "name": "Find a monkey paw  (Willow street)",
+            "category": ["Willow posessions", "Willow street"],
+            "requires": "|13 Willow street|",
+            "_comment": "---------------------------------------------------------------------------"
+        },
+        {
+            "name": "Camp woodwind completed - 1",
+            "category": ["Map completed", "Woodwind"],
+            "requires": "|Camp woodwind|"
+        },
+		{
+            "name": "Camp woodwind completed - 2",
+            "category": ["Map completed", "Woodwind"],
+            "requires": "|Camp woodwind|"
+        },
+		{
+            "name": "Camp woodwind completed - 3",
+            "category": ["Map completed", "Woodwind"],
+            "requires": "|Camp woodwind|"
+        },
+		{
+            "name": "Camp woodwind completed - 4",
+            "category": ["Map completed", "Woodwind"],
+            "requires": "|Camp woodwind|"
+        },
+		{
+            "name": "Camp woodwind completed - 5",
+            "category": ["Map completed", "Woodwind"],
+            "requires": "|Camp woodwind|"
+        },
+		{
+            "name": "Woodwind - Bone",
+            "category": ["Bones", "Woodwind"],
+            "requires": "|Camp woodwind|"
+        },
+        {
+            "name": "Capture a photo of any successful reading on an EMF (Woodwind)",
+            "category": ["Woodwind objectives", "Woodwind", "PhotoObj"],
+            "requires": "|@EMF:1| and |@Photo camera:1| and |Camp woodwind|"
+        },
+        {
+            "name": "Capture a photo of the ghost (Woodwind)",
+            "category": ["Woodwind objectives", "Woodwind", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Camp woodwind|"
+        },
+        {
+            "name": "Capture a video of the ghost (Woodwind)",
+            "category": ["Woodwind objectives", "Woodwind", "VideoObj"],
+            "requires": "|@Video camera:1| and |Camp woodwind|"
+        },
+		{
+            "name": "Capture 1 photo with a photo camera (Woodwind)",
+            "category": ["Woodwind objectives", "Woodwind", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Camp woodwind|"
+        },
+		{
+            "name": "Capture 2 unique photos with a photo camera (Woodwind)",
+            "category": ["Woodwind objectives", "Woodwind", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Camp woodwind|"
+        },
+        {
+            "name": "Capture 3 unique photos with a photo camera (Woodwind)",
+            "category": ["Woodwind objectives", "Woodwind", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Camp woodwind|"
+        },
+		{
+            "name": "Capture 4 unique photos with a photo camera (Woodwind)",
+            "category": ["Woodwind objectives", "Woodwind", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Camp woodwind|"
+        },
+		{
+            "name": "Capture 5 unique photos with a photo camera (Woodwind)",
+            "category": ["Woodwind objectives", "Woodwind", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Camp woodwind|"
+        },
+		{
+            "name": "Capture 1 video with a video camera (Woodwind)",
+            "category": ["Woodwind objectives", "Woodwind", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Camp woodwind|"
+        },
+		{
+            "name": "Capture 2 unique video with a video camera (Woodwind)",
+            "category": ["Woodwind objectives", "Woodwind", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Camp woodwind|"
+        },
+        {
+            "name": "Capture 3 unique video with a video camera (Woodwind)",
+            "category": ["Woodwind objectives", "Woodwind", "VideoObj"],
+            "requires": "|@Video camera:1| and |Camp woodwind|"
+        },
+		{
+            "name": "Capture 4 unique video with a video camera (Woodwind)",
+            "category": ["Woodwind objectives", "Woodwind", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Camp woodwind|"
+        },
+		{
+            "name": "Capture 5 unique video with a video camera (Woodwind)",
+            "category": ["Woodwind objectives", "Woodwind", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Camp woodwind|"
+        },
+		{
+            "name": "Capture 1 paranormal sound with a sound recorder (Woodwind)",
+            "category": ["Woodwind objectives", "Woodwind", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Camp woodwind|"
+        },
+        {
+            "name": "Capture 2 paranormal sound with a sound recorder (Woodwind)",
+            "category": ["Woodwind objectives", "Woodwind", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Camp woodwind|"
+        },
+		{
+            "name": "Capture 3 paranormal sound with a sound recorder (Woodwind)",
+            "category": ["Woodwind objectives", "Woodwind", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Camp woodwind|"
+        },
+        {
+            "name": "Detect a ghost presence with a motion sensor (Woodwind)",
+            "category": ["Woodwind objectives", "Woodwind", "SensorObj"],
+            "requires": "|@Motion sensor:1| and |Camp woodwind|"
+        },
+        {
+            "name": "Prevent ghost from hunting with a crucifix (Woodwind)",
+            "category": ["Woodwind objectives", "Woodwind", "CrucifixObj"],
+            "requires": "|@Crucifix:1| and |Camp woodwind|"
+        },
+        {
+            "name": "Have someone witness a ghost event (Woodwind)",
+            "category": ["Woodwind objectives", "Woodwind", "WitnessObj"],
+            "requires": "|Camp woodwind|"
+        },
+        {
+            "name": "Cleanse the area near the ghost using incense (Woodwind)",
+            "category": ["Woodwind objectives", "Woodwind", "CleanseObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Camp woodwind|"
+        },
+        {
+            "name": "Repel the ghost with incense while it's chasing someone (Woodwind)",
+            "category": ["Woodwind objectives", "Woodwind", "RepelObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Camp woodwind|"
+        },
+        {
+            "name": "Get the ghost to blow out a firelight (Woodwind)",
+            "category": ["Woodwind objectives", "Woodwind", "FirelightObj"],
+            "requires": "|@Firelight:1| and |@Lighter:1| and |Camp woodwind|"
+        },
+        {
+            "name": "Have a member of the team escape the ghost during a hunt (Woodwind)",
+            "category": ["Woodwind objectives", "Woodwind", "EscapeObj"],
+            "requires": "|Camp woodwind| and |@Lighter:1| and |@Smudges:1|"
+        },
+        {
+            "name": "Get the average sanity down to 25% (Woodwind)",
+            "category": ["Woodwind objectives", "Woodwind", "SanityObj"],
+            "requires": "|Camp woodwind|"
+        },
+        {
+            "name": "Detect a paranormal sound with a parabolic microphone (Woodwind)",
+            "category": ["Woodwind objectives", "Woodwind", "ParamicObj"],
+            "requires": "|@Parabolic microphone:1| and |@Map unlocks:1|"
+        },
+		{
+            "name": "Find a music box (Woodwind)",
+            "category": ["Woodwind posessions", "Woodwind"],
+            "requires": "|Camp woodwind|"
+        },
+        {
+            "name": "Find a haunted mirror (Woodwind)",
+            "category": ["Woodwind posessions", "Woodwind"],
+            "requires": "|Camp woodwind|"
+        },
+        {
+            "name": "Find a Ouija board (Woodwind)",
+            "category": ["Woodwind posessions", "Woodwind"],
+            "requires": "|Camp woodwind|"
+        },
+        {
+            "name": "Find a summoning circle (Woodwind)",
+            "category": ["Woodwind posessions", "Woodwind"],
+            "requires": "|Camp woodwind|"
+        },
+        {
+            "name": "Find a deck of tarot cards (Woodwind)",
+            "category": ["Woodwind posessions", "Woodwind"],
+            "requires": "|Camp woodwind|"
+        },
+        {
+            "name": "Find a voodoo doll (Woodwind)",
+            "category": ["Woodwind posessions", "Woodwind"],
+            "requires": "|Camp woodwind|"
+        },
+        {
+            "name": "Find a monkey paw  (Woodwind)",
+            "category": ["Woodwind posessions", "Woodwind"],
+            "requires": "|Camp woodwind|",
+            "_comment": "---------------------------------------------------------------------------"
+        },
+        {
+            "name": "Point hope completed - 1",
+            "category": ["Map completed", "Point hope"],
+            "requires": "|Point hope|"
+        },
+		{
+            "name": "Point hope completed - 2",
+            "category": ["Map completed", "Point hope"],
+            "requires": "|Point hope|"
+        },
+		{
+            "name": "Point hope completed - 3",
+            "category": ["Map completed", "Point hope"],
+            "requires": "|Point hope|"
+        },
+		{
+            "name": "Point hope completed - 4",
+            "category": ["Map completed", "Point hope"],
+            "requires": "|Point hope|"
+        },
+		{
+            "name": "Point hope completed - 5",
+            "category": ["Map completed", "Point hope"],
+            "requires": "|Point hope|"
+        },
+		{
+            "name": "Point hope - Bone",
+            "category": ["Bones", "Point hope"],
+            "requires": "|Point hope|"
+        },
+        {
+            "name": "Capture a photo of any successful reading on an EMF (Point hope)",
+            "category": ["Point hope objectives", "Point hope", "PhotoObj"],
+            "requires": "|@EMF:1| and |@Photo camera:1| and |Point hope|"
+        },
+        {
+            "name": "Capture a photo of the ghost (Point hope)",
+            "category": ["Point hope objectives", "PhotoObj", "Point hope"],
+            "requires": "|@Photo camera:1| and |Point hope|"
+        },
+        {
+            "name": "Capture a video of the ghost (Point hope)",
+            "category": ["Point hope objectives", "Point hope", "VideoObj"],
+            "requires": "|@Video camera:1| and |Point hope|"
+        },
+		{
+            "name": "Capture 1 photo with a photo camera (Point hope)",
+            "category": ["Point hope objectives", "Point hope", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Point hope|"
+        },
+		{
+            "name": "Capture 2 unique photos with a photo camera (Point hope)",
+            "category": ["Point hope objectives", "Point hope", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Point hope|"
+        },
+        {
+            "name": "Capture 3 unique photos with a photo camera (Point hope)",
+            "category": ["Point hope objectives", "Point hope", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Point hope|"
+        },
+		{
+            "name": "Capture 4 unique photos with a photo camera (Point hope)",
+            "category": ["Point hope objectives", "Point hope", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Point hope|"
+        },
+		{
+            "name": "Capture 5 unique photos with a photo camera (Point hope)",
+            "category": ["Point hope objectives", "Point hope", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Point hope|"
+        },
+		{
+            "name": "Capture 1 video with a video camera (Point hope)",
+            "category": ["Point hope objectives", "Point hope", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Point hope|"
+        },
+		{
+            "name": "Capture 2 unique video with a video camera (Point hope)",
+            "category": ["Point hope objectives", "Point hope", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Point hope|"
+        },
+        {
+            "name": "Capture 3 unique video with a video camera (Point hope)",
+            "category": ["Point hope objectives", "Point hope", "VideoObj"],
+            "requires": "|@Video camera:1| and |Point hope|"
+        },
+		{
+            "name": "Capture 4 unique video with a video camera (Point hope)",
+            "category": ["Point hope objectives", "Point hope", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Point hope|"
+        },
+		{
+            "name": "Capture 5 unique video with a video camera (Point hope)",
+            "category": ["Point hope objectives", "Point hope", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Point hope|"
+        },
+		{
+            "name": "Capture 1 paranormal sound with a sound recorder (Point hope)",
+            "category": ["Point hope objectives", "Point hope", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Point hope|"
+        },
+        {
+            "name": "Capture 2 paranormal sound with a sound recorder (Point hope)",
+            "category": ["Point hope objectives", "Point hope", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Point hope|"
+        },
+		{
+            "name": "Capture 3 paranormal sound with a sound recorder (Point hope)",
+            "category": ["Point hope objectives", "Point hope", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Point hope|"
+        },
+        {
+            "name": "Detect a ghost presence with a motion sensor (Point hope)",
+            "category": ["Point hope objectives", "Point hope", "SensorObj"],
+            "requires": "|@Motion sensor:1| and |Point hope|"
+        },
+        {
+            "name": "Prevent ghost from hunting with a crucifix (Point hope)",
+            "category": ["Point hope objectives", "Point hope", "CrucifixObj"],
+            "requires": "|@Crucifix:1| and |Point hope|"
+        },
+        {
+            "name": "Have someone witness a ghost event (Point hope)",
+            "category": ["Point hope objectives", "Point hope", "WitnessObj"],
+            "requires": "|Point hope|"
+        },
+        {
+            "name": "Cleanse the area near the ghost using incense (Point hope)",
+            "category": ["Point hope objectives", "Point hope", "CleanseObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Point hope|"
+        },
+        {
+            "name": "Repel the ghost with incense while it's chasing someone (Point hope)",
+            "category": ["Point hope objectives", "Point hope", "RepelObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Point hope|"
+        },
+        {
+            "name": "Get the ghost to blow out a firelight (Point hope)",
+            "category": ["Point hope objectives", "Point hope", "FirelightObj"],
+            "requires": "|@Firelight:1| and |@Lighter:1| and |Point hope|"
+        },
+        {
+            "name": "Have a member of the team escape the ghost during a hunt (Point hope)",
+            "category": ["Point hope objectives", "Point hope", "EscapeObj"],
+            "requires": "|Point hope| and |@Lighter:1| and |@Smudges:1|"
+        },
+        {
+            "name": "Get the average sanity down to 25% (Point hope)",
+            "category": ["Point hope objectives", "Point hope", "SanityObj"],
+            "requires": "|Point hope|"
+        },
+        {
+            "name": "Detect a paranormal sound with a parabolic microphone (Point hope)",
+            "category": ["Point hope objectives", "Point hope", "ParamicObj"],
+            "requires": "|@Parabolic microphone:1| and |Point hope|"
+        },
+		{
+            "name": "Find a music box (Point hope)",
+            "category": ["Point hope posessions", "Point hope"],
+            "requires": "|Point hope|"
+        },
+        {
+            "name": "Find a haunted mirror (Point hope)",
+            "category": ["Point hope posessions", "Point hope"],
+            "requires": "|Point hope|"
+        },
+        {
+            "name": "Find a Ouija board (Point hope)",
+            "category": ["Point hope posessions", "Point hope"],
+            "requires": "|Point hope|"
+        },
+        {
+            "name": "Find a summoning circle (Point hope)",
+            "category": ["Point hope posessions", "Point hope"],
+            "requires": "|Point hope|"
+        },
+        {
+            "name": "Find a deck of tarot cards (Point hope)",
+            "category": ["Point hope posessions", "Point hope"],
+            "requires": "|Point hope|"
+        },
+        {
+            "name": "Find a voodoo doll (Point hope)",
+            "category": ["Point hope posessions", "Point hope"],
+            "requires": "|Point hope|"
+        },
+        {
+            "name": "Find a monkey paw  (Point hope)",
+            "category": ["Point hope posessions", "Point hope"],
+            "requires": "|Point hope|",
+            "_comment": "---------------------------------------------------------------------------"
+        },
+        {
+            "name": "Bleasdale farmhouse completed - 1",
+            "category": ["Map completed", "Bleasdale"],
+            "requires": "|Bleasdale farmhouse|"
+        },
+		{
+            "name": "Bleasdale farmhouse completed - 2",
+            "category": ["Map completed", "Bleasdale"],
+            "requires": "|Bleasdale farmhouse|"
+        },
+		{
+            "name": "Bleasdale farmhouse completed - 3",
+            "category": ["Map completed", "Bleasdale"],
+            "requires": "|Bleasdale farmhouse|"
+        },
+		{
+            "name": "Bleasdale farmhouse completed - 4",
+            "category": ["Map completed", "Bleasdale"],
+            "requires": "|Bleasdale farmhouse|"
+        },
+		{
+            "name": "Bleasdale farmhouse completed - 5",
+            "category": ["Map completed", "Bleasdale"],
+            "requires": "|Bleasdale farmhouse|"
+        },
+		{
+            "name": "Bleasdale - Bone",
+            "category": ["Bones", "Bleasdale"],
+            "requires": "|Bleasdale farmhouse|"
+        },
+        {
+            "name": "Capture a photo of any successful reading on an EMF (Bleasdale)",
+            "category": ["Bleasdale objectives", "Bleasdale", "PhotoObj"],
+            "requires": "|@EMF:1| and |@Photo camera:1| and |Bleasdale farmhouse|"
+        },
+        {
+            "name": "Capture a photo of the ghost (Bleasdale)",
+            "category": ["Bleasdale objectives", "Bleasdale", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Bleasdale farmhouse|"
+        },
+        {
+            "name": "Capture a video of the ghost (Bleasdale)",
+            "category": ["Bleasdale objectives", "Bleasdale", "VideoObj"],
+            "requires": "|@Video camera:1| and |Bleasdale farmhouse|"
+        },
+		{
+            "name": "Capture 1 photo with a photo camera (Bleasdale)",
+            "category": ["Bleasdale objectives", "Bleasdale", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Bleasdale farmhouse|"
+        },
+		{
+            "name": "Capture 2 unique photos with a photo camera (Bleasdale)",
+            "category": ["Bleasdale objectives", "Bleasdale", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Bleasdale farmhouse|"
+        },
+        {
+            "name": "Capture 3 unique photos with a photo camera (Bleasdale)",
+            "category": ["Bleasdale objectives", "Bleasdale", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Bleasdale farmhouse|"
+        },
+		{
+            "name": "Capture 4 unique photos with a photo camera (Bleasdale)",
+            "category": ["Bleasdale objectives", "Bleasdale", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Bleasdale farmhouse|"
+        },
+		{
+            "name": "Capture 5 unique photos with a photo camera (Bleasdale)",
+            "category": ["Bleasdale objectives", "Bleasdale", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Bleasdale farmhouse|"
+        },
+		{
+            "name": "Capture 1 video with a video camera (Bleasdale)",
+            "category": ["Bleasdale objectives", "Bleasdale", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Bleasdale farmhouse|"
+        },
+		{
+            "name": "Capture 2 unique video with a video camera (Bleasdale)",
+            "category": ["Bleasdale objectives", "Bleasdale", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Bleasdale farmhouse|"
+        },
+        {
+            "name": "Capture 3 unique video with a video camera (Bleasdale)",
+            "category": ["Bleasdale objectives", "Bleasdale", "VideoObj"],
+            "requires": "|@Video camera:1| and |Bleasdale farmhouse|"
+        },
+		{
+            "name": "Capture 4 unique video with a video camera (Bleasdale)",
+            "category": ["Bleasdale objectives", "Bleasdale", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Bleasdale farmhouse|"
+        },
+		{
+            "name": "Capture 5 unique video with a video camera (Bleasdale)",
+            "category": ["Bleasdale objectives", "Bleasdale", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Bleasdale farmhouse|"
+        },
+		{
+            "name": "Capture 1 paranormal sound with a sound recorder (Bleasdale)",
+            "category": ["Bleasdale objectives", "Bleasdale", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Bleasdale farmhouse|"
+        },
+        {
+            "name": "Capture 2 paranormal sound with a sound recorder (Bleasdale)",
+            "category": ["Bleasdale objectives", "Bleasdale", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Bleasdale farmhouse|"
+        },
+		{
+            "name": "Capture 3 paranormal sound with a sound recorder (Bleasdale)",
+            "category": ["Bleasdale objectives", "Bleasdale", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Bleasdale farmhouse|"
+        },
+        {
+            "name": "Detect a ghost presence with a motion sensor (Bleasdale)",
+            "category": ["Bleasdale objectives", "Bleasdale", "SensorObj"],
+            "requires": "|@Motion sensor:1| and |Bleasdale farmhouse|"
+        },
+        {
+            "name": "Prevent ghost from hunting with a crucifix (Bleasdale)",
+            "category": ["Bleasdale objectives", "Bleasdale", "CrucifixObj"],
+            "requires": "|@Crucifix:1| and |Bleasdale farmhouse|"
+        },
+        {
+            "name": "Have someone witness a ghost event (Bleasdale)",
+            "category": ["Bleasdale objectives", "Bleasdale", "WitnessObj"],
+            "requires": "|Bleasdale farmhouse|"
+        },
+        {
+            "name": "Cleanse the area near the ghost using incense (Bleasdale)",
+            "category": ["Bleasdale objectives", "Bleasdale", "CleanseObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Bleasdale farmhouse|"
+        },
+        {
+            "name": "Repel the ghost with incense while it's chasing someone (Bleasdale)",
+            "category": ["Bleasdale objectives", "Bleasdale", "RepelObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Bleasdale farmhouse|"
+        },
+        {
+            "name": "Get the ghost to blow out a firelight (Bleasdale)",
+            "category": ["Bleasdale objectives", "Bleasdale", "FirelightObj"],
+            "requires": "|@Firelight:1| and |@Lighter:1| and |Bleasdale farmhouse|"
+        },
+        {
+            "name": "Have a member of the team escape the ghost during a hunt (Bleasdale)",
+            "category": ["Bleasdale objectives", "Bleasdale", "EscapeObj"],
+            "requires": "|Bleasdale farmhouse| and |@Lighter:1| and |@Smudges:1|"
+        },
+        {
+            "name": "Get the average sanity down to 25% (Bleasdale)",
+            "category": ["Bleasdale objectives", "Bleasdale", "SanityObj"],
+            "requires": "|Bleasdale farmhouse|"
+        },
+        {
+            "name": "Detect a paranormal sound with a parabolic microphone (Bleasdale)",
+            "category": ["Bleasdale objectives", "Bleasdale", "ParamicObj"],
+            "requires": "|@Parabolic microphone:1| and |Bleasdale farmhouse|"
+        },
+		{
+            "name": "Find a music box (Bleasdale)",
+            "category": ["Bleasdale posessions", "Bleasdale"],
+            "requires": "|Bleasdale farmhouse|"
+        },
+        {
+            "name": "Find a haunted mirror (Bleasdale)",
+            "category": ["Bleasdale posessions", "Bleasdale"],
+            "requires": "|Bleasdale farmhouse|"
+        },
+        {
+            "name": "Find a Ouija board (Bleasdale)",
+            "category": ["Bleasdale posessions", "Bleasdale"],
+            "requires": "|Bleasdale farmhouse|"
+        },
+        {
+            "name": "Find a summoning circle (Bleasdale)",
+            "category": ["Bleasdale posessions", "Bleasdale"],
+            "requires": "|Bleasdale farmhouse|"
+        },
+        {
+            "name": "Find a deck of tarot cards (Bleasdale)",
+            "category": ["Bleasdale posessions", "Bleasdale"],
+            "requires": "|Bleasdale farmhouse|"
+        },
+        {
+            "name": "Find a voodoo doll (Bleasdale)",
+            "category": ["Bleasdale posessions", "Bleasdale"],
+            "requires": "|Bleasdale farmhouse|"
+        },
+        {
+            "name": "Find a monkey paw  (Bleasdale)",
+            "category": ["Bleasdale posessions", "Bleasdale"],
+            "requires": "|Bleasdale farmhouse|",
+            "_comment": "---------------------------------------------------------------------------"
+        },
+        {
+            "name": "Sunny meadows restricted completed - 1",
+            "category": ["Map completed", "Meadows restricted"],
+            "requires": "|Sunny meadows restricted|"
+        },
+		{
+            "name": "Sunny meadows restricted completed - 2",
+            "category": ["Map completed", "Meadows restricted"],
+            "requires": "|Sunny meadows restricted|"
+        },
+		{
+            "name": "Sunny meadows restricted completed - 3",
+            "category": ["Map completed", "Meadows restricted"],
+            "requires": "|Sunny meadows restricted|"
+        },
+		{
+            "name": "Sunny meadows restricted completed - 4",
+            "category": ["Map completed", "Meadows restricted"],
+            "requires": "|Sunny meadows restricted|"
+        },
+		{
+            "name": "Sunny meadows restricted completed - 5",
+            "category": ["Map completed", "Meadows restricted"],
+            "requires": "|Sunny meadows restricted|"
+        },
+		{
+            "name": "Sunny meadows restricted - Bone",
+            "category": ["Bones", "Meadows restricted"],
+            "requires": "|Sunny meadows restricted|"
+        },
+        {
+            "name": "Capture a photo of any successful reading on an EMF (Meadows restricted)",
+            "category": ["Meadows restricted objectives", "Meadows restricted", "PhotoObj"],
+            "requires": "|@EMF:1| and |@Photo camera:1| and |Sunny meadows restricted|"
+        },
+        {
+            "name": "Capture a photo of the ghost (Meadows restricted)",
+            "category": ["Meadows restricted objectives", "Meadows restricted", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Sunny meadows restricted|"
+        },
+        {
+            "name": "Capture a video of the ghost (Meadows restricted)",
+            "category": ["Meadows restricted objectives", "Meadows restricted", "VideoObj"],
+            "requires": "|@Video camera:1| and |Sunny meadows restricted|"
+        },
+		{
+            "name": "Capture 1 photo with a photo camera (Meadows restricted)",
+            "category": ["Meadows restricted objectives", "Meadows restricted", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Sunny meadows restricted|"
+        },
+		{
+            "name": "Capture 2 unique photos with a photo camera (Meadows restricted)",
+            "category": ["Meadows restricted objectives", "Meadows restricted", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Sunny meadows restricted|"
+        },
+        {
+            "name": "Capture 3 unique photos with a photo camera (Meadows restricted)",
+            "category": ["Meadows restricted objectives", "Meadows restricted", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Sunny meadows restricted|"
+        },
+		{
+            "name": "Capture 4 unique photos with a photo camera (Meadows restricted)",
+            "category": ["Meadows restricted objectives", "Meadows restricted", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Sunny meadows restricted|"
+        },
+		{
+            "name": "Capture 5 unique photos with a photo camera (Meadows restricted)",
+            "category": ["Meadows restricted objectives", "Meadows restricted", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Sunny meadows restricted|"
+        },
+		{
+            "name": "Capture 1 unique video with a video camera (Meadows restricted)",
+            "category": ["Meadows restricted objectives", "Meadows restricted", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Sunny meadows restricted|"
+        },
+		{
+            "name": "Capture 2 unique video with a video camera (Meadows restricted)",
+            "category": ["Meadows restricted objectives", "Meadows restricted", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Sunny meadows restricted|"
+        },
+        {
+            "name": "Capture 3 unique video with a video camera (Meadows restricted)",
+            "category": ["Meadows restricted objectives", "Meadows restricted", "VideoObj"],
+            "requires": "|@Video camera:1| and |Sunny meadows restricted|"
+        },
+		{
+            "name": "Capture 4 unique video with a video camera (Meadows restricted)",
+            "category": ["Meadows restricted objectives", "Meadows restricted", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Sunny meadows restricted|"
+        },
+		{
+            "name": "Capture 5 unique video with a video camera (Meadows restricted)",
+            "category": ["Meadows restricted objectives", "Meadows restricted", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Sunny meadows restricted|"
+        },
+		{
+            "name": "Capture 1 paranormal sound with a sound recorder (Meadows restricted)",
+            "category": ["Meadows restricted objectives", "Meadows restricted", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Sunny meadows restricted|"
+        },
+        {
+            "name": "Capture 2 paranormal sound with a sound recorder (Meadows restricted)",
+            "category": ["Meadows restricted objectives", "Meadows restricted", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Sunny meadows restricted|"
+        },
+		{
+            "name": "Capture 3 paranormal sound with a sound recorder (Meadows restricted)",
+            "category": ["Meadows restricted objectives", "Meadows restricted", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Sunny meadows restricted|"
+        },
+        {
+            "name": "Detect a ghost presence with a motion sensor (Meadows restricted)",
+            "category": ["Meadows restricted objectives", "Meadows restricted", "SensorObj"],
+            "requires": "|@Motion sensor:1| and |Sunny meadows restricted|"
+        },
+        {
+            "name": "Prevent ghost from hunting with a crucifix (Meadows restricted)",
+            "category": ["Meadows restricted objectives", "Meadows restricted", "CrucifixObj"],
+            "requires": "|@Crucifix:1| and |Sunny meadows restricted|"
+        },
+        {
+            "name": "Have someone witness a ghost event (Meadows restricted)",
+            "category": ["Meadows restricted objectives", "Meadows restricted", "WitnessObj"],
+            "requires": "|Sunny meadows restricted|"
+        },
+        {
+            "name": "Cleanse the area near the ghost using incense (Meadows restricted)",
+            "category": ["Meadows restricted objectives", "Meadows restricted", "CleanseObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Sunny meadows restricted|"
+        },
+        {
+            "name": "Repel the ghost with incense while it's chasing someone (Meadows restricted)",
+            "category": ["Meadows restricted objectives", "Meadows restricted", "RepelObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Sunny meadows restricted|"
+        },
+        {
+            "name": "Get the ghost to blow out a firelight (Meadows restricted)",
+            "category": ["Meadows restricted objectives", "Meadows restricted", "FirelightObj"],
+            "requires": "|@Firelight:1| and |@Lighter:1| and |Sunny meadows restricted|"
+        },
+        {
+            "name": "Have a member of the team escape the ghost during a hunt (Meadows restricted)",
+            "category": ["Meadows restricted objectives", "Meadows restricted", "EscapeObj"],
+            "requires": "|Sunny meadows restricted| and |@Lighter:1| and |@Smudges:1|"
+        },
+        {
+            "name": "Get the average sanity down to 25% (Meadows restricted)",
+            "category": ["Meadows restricted objectives", "Meadows restricted", "SanityObj"],
+            "requires": "|Sunny meadows restricted|"
+        },
+        {
+            "name": "Detect a paranormal sound with a parabolic microphone (Meadows restricted)",
+            "category": ["Meadows restricted objectives", "Meadows restricted", "ParamicObj"],
+            "requires": "|@Parabolic microphone:1| and |Sunny meadows restricted|"
+        },
+		{
+            "name": "Find a music box (Meadows restricted)",
+            "category": ["Meadows restricted posession", "Meadows restricted"],
+            "requires": "|Sunny meadows restricted|"
+        },
+        {
+            "name": "Find a haunted mirror (Meadows restricted)",
+            "category": ["Meadows restricted posession", "Meadows restricted"],
+            "requires": "|Sunny meadows restricted|"
+        },
+        {
+            "name": "Find a Ouija board (Meadows restricted)",
+            "category": ["Meadows restricted posession", "Meadows restricted"],
+            "requires": "|Sunny meadows restricted|"
+        },
+        {
+            "name": "Find a summoning circle (Meadows restricted)",
+            "category": ["Meadows restricted posession", "Meadows restricted"],
+            "requires": "|Sunny meadows restricted|"
+        },
+        {
+            "name": "Find a deck of tarot cards (Meadows restricted)",
+            "category": ["Meadows restricted posession", "Meadows restricted"],
+            "requires": "|Sunny meadows restricted|"
+        },
+        {
+            "name": "Find a voodoo doll (Meadows restricted)",
+            "category": ["Meadows restricted posession", "Meadows restricted"],
+            "requires": "|Sunny meadows restricted|"
+        },
+        {
+            "name": "Find a monkey paw  (Meadows restricted)",
+            "category": ["Meadows restricted posession", "Meadows restricted"],
+            "requires": "|Sunny meadows restricted|",
+            "_comment": "---------------------------------------------------------------------------"
+        },
+        {
+            "name": "Sunny meadows completed - 1",
+            "category": ["Map completed", "Meadows"],
+            "requires": "|Sunny meadows|"
+        },
+		{
+            "name": "Sunny meadows completed - 2",
+            "category": ["Map completed", "Meadows"],
+            "requires": "|Sunny meadows|"
+        },
+		{
+            "name": "Sunny meadows completed - 3",
+            "category": ["Map completed", "Meadows"],
+            "requires": "|Sunny meadows|"
+        },
+		{
+            "name": "Sunny meadows completed - 4",
+            "category": ["Map completed", "Meadows"],
+            "requires": "|Sunny meadows|"
+        },
+		{
+            "name": "Sunny meadows completed - 5",
+            "category": ["Map completed", "Meadows"],
+            "requires": "|Sunny meadows|"
+        },
+		{
+            "name": "Sunny meadows - Bone",
+            "category": ["Bones", "Meadows"],
+            "requires": "|Sunny meadows|"
+        },
+        {
+            "name": "Capture a photo of any successful reading on an EMF (Meadows)",
+            "category": ["Meadows objectives", "Meadows", "PhotoObj"],
+            "requires": "|@EMF:1| and |@Photo camera:1| and |Sunny meadows|"
+        },
+        {
+            "name": "Capture a photo of the ghost (Meadows)",
+            "category": ["Meadows objectives", "Meadows", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Sunny meadows|"
+        },
+        {
+            "name": "Capture a video of the ghost (Meadows)",
+            "category": ["Meadows objectives", "Meadows", "VideoObj"],
+            "requires": "|@Video camera:1| and |Sunny meadows|"
+        },
+		{
+            "name": "Capture 1 photo with a photo camera (Meadows)",
+            "category": ["Meadows objectives", "Meadows", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Sunny meadows|"
+        },
+		{
+            "name": "Capture 2 unique photos with a photo camera (Meadows)",
+            "category": ["Meadows objectives", "Meadows", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Sunny meadows|"
+        },
+        {
+            "name": "Capture 3 unique photos with a photo camera (Meadows)",
+            "category": ["Meadows objectives", "Meadows", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Sunny meadows|"
+        },
+		{
+            "name": "Capture 4 unique photos with a photo camera (Meadows)",
+            "category": ["Meadows objectives", "Meadows", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Sunny meadows|"
+        },
+		{
+            "name": "Capture 5 unique photos with a photo camera (Meadows)",
+            "category": ["Meadows objectives", "Meadows", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Sunny meadows|"
+        },
+		{
+            "name": "Capture 1 video with a video camera (Meadows)",
+            "category": ["Meadows objectives", "Meadows", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Sunny meadows|"
+        },
+		{
+            "name": "Capture 2 unique video with a video camera (Meadows)",
+            "category": ["Meadows objectives", "Meadows", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Sunny meadows|"
+        },
+        {
+            "name": "Capture 3 unique video with a video camera (Meadows)",
+            "category": ["Meadows objectives", "Meadows", "VideoObj"],
+            "requires": "|@Video camera:1| and |Sunny meadows|"
+        },
+		{
+            "name": "Capture 4 unique video with a video camera (Meadows)",
+            "category": ["Meadows objectives", "Meadows", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Sunny meadows|"
+        },
+		{
+            "name": "Capture 5 unique video with a video camera (Meadows)",
+            "category": ["Meadows objectives", "Meadows", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Sunny meadows|"
+        },
+		{
+            "name": "Capture 1 paranormal sound with a sound recorder (Meadows)",
+            "category": ["Meadows objectives", "Meadows", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Sunny meadows|"
+        },
+        {
+            "name": "Capture 2 paranormal sound with a sound recorder (Meadows)",
+            "category": ["Meadows objectives", "Meadows", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Sunny meadows|"
+        },
+		{
+            "name": "Capture 3 paranormal sound with a sound recorder (Meadows)",
+            "category": ["Meadows objectives", "Meadows", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Sunny meadows|"
+        },
+        {
+            "name": "Detect a ghost presence with a motion sensor (Meadows)",
+            "category": ["Meadows objectives", "Meadows", "SensorObj"],
+            "requires": "|@Motion sensor:1| and |Sunny meadows|"
+        },
+        {
+            "name": "Prevent ghost from hunting with a crucifix (Meadows)",
+            "category": ["Meadows objectives", "Meadows", "CrucifixObj"],
+            "requires": "|@Crucifix:1| and |Sunny meadows|"
+        },
+        {
+            "name": "Have someone witness a ghost event (Meadows)",
+            "category": ["Meadows objectives", "Meadows", "WitnessObj"],
+            "requires": "|Sunny meadows|"
+        },
+        {
+            "name": "Cleanse the area near the ghost using incense (Meadows)",
+            "category": ["Meadows objectives", "Meadows", "CleanseObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Sunny meadows|"
+        },
+        {
+            "name": "Repel the ghost with incense while it's chasing someone (Meadows)",
+            "category": ["Meadows objectives", "Meadows", "RepelObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Sunny meadows|"
+        },
+        {
+            "name": "Get the ghost to blow out a firelight (Meadows)",
+            "category": ["Meadows objectives", "Meadows", "FirelightObj"],
+            "requires": "|@Firelight:1| and |@Lighter:1| and |Sunny meadows|"
+        },
+        {
+            "name": "Have a member of the team escape the ghost during a hunt (Meadows)",
+            "category": ["Meadows objectives", "Meadows", "EscapeObj"],
+            "requires": "|Sunny meadows| and |@Lighter:1| and |@Smudges:1|"
+        },
+        {
+            "name": "Get the average sanity down to 25% (Meadows)",
+            "category": ["Meadows objectives", "Meadows", "SanityObj"],
+            "requires": "|Sunny meadows|"
+        },
+        {
+            "name": "Detect a paranormal sound with a parabolic microphone (Meadows)",
+            "category": ["Meadows objectives", "Meadows", "ParamicObj"],
+            "requires": "|@Parabolic microphone:1| and |Sunny meadows|"
+        },
+		{
+			"name": "Apocalypse I - I",
+			"category": ["Meadows", "Apocalypse", "Apoc I"],
+			"requires": "|@Lighter:1| and |@Smudges:1| and |@Parabolic microphone:1| and (|@Photo camera:1| or |@Video camera:1| or |@Sound recorder:1|) and |Sunny meadows|"
+		},
+		{
+			"name": "Apocalypse I - II",
+			"category": ["Meadows", "Apocalypse", "Apoc I"],
+			"requires": "|@Lighter:1| and |@Smudges:1| and |@Parabolic microphone:1| and (|@Photo camera:1| or |@Video camera:1| or |@Sound recorder:1|) and |Sunny meadows|"
+		},
+		{
+			"name": "Apocalypse I - III",
+			"category": ["Meadows", "Apocalypse", "Apoc I"],
+			"requires": "|@Lighter:1| and |@Smudges:1| and |@Parabolic microphone:1| and (|@Photo camera:1| or |@Video camera:1| or |@Sound recorder:1|) and |Sunny meadows|"
+		},
+		{
+			"name": "Apocalypse I - IV",
+			"category": ["Meadows", "Apocalypse", "Apoc I"],
+			"requires": "|@Lighter:1| and |@Smudges:1| and |@Parabolic microphone:1| and (|@Photo camera:1| or |@Video camera:1| or |@Sound recorder:1|) and |Sunny meadows|"
+		},
+		{
+			"name": "Apocalypse I - V",
+			"category": ["Meadows", "Apocalypse", "Apoc I"],
+			"requires": "|@Lighter:1| and |@Smudges:1| and |@Parabolic microphone:1| and (|@Photo camera:1| or |@Video camera:1| or |@Sound recorder:1|) and |Sunny meadows|"
+		},
+		{
+			"name": "Apocalypse II - I",
+			"category": ["Meadows", "Apocalypse", "Apoc II"],
+			"requires": "|@Lighter:1| and |@Smudges:1| and |@Parabolic microphone:1| and (|@Photo camera:1| or |@Video camera:1| or |@Sound recorder:1|) and |Sunny meadows|"
+		},
+		{
+			"name": "Apocalypse II - II",
+			"category": ["Meadows", "Apocalypse", "Apoc II"],
+			"requires": "|@Lighter:1| and |@Smudges:1| and |@Parabolic microphone:1| and (|@Photo camera:1| or |@Video camera:1| or |@Sound recorder:1|) and |Sunny meadows|"
+		},
+		{
+			"name": "Apocalypse II - III",
+			"category": ["Meadows", "Apocalypse", "Apoc II"],
+			"requires": "|@Lighter:1| and |@Smudges:1| and |@Parabolic microphone:1| and (|@Photo camera:1| or |@Video camera:1| or |@Sound recorder:1|) and |Sunny meadows|"
+		},
+		{
+			"name": "Apocalypse II - IV",
+			"category": ["Meadows", "Apocalypse", "Apoc II"],
+			"requires": "|@Lighter:1| and |@Smudges:1| and |@Parabolic microphone:1| and (|@Photo camera:1| or |@Video camera:1| or |@Sound recorder:1|) and |Sunny meadows|"
+		},
+		{
+			"name": "Apocalypse II - V",
+			"category": ["Meadows", "Apocalypse", "Apoc II"],
+			"requires": "|@Lighter:1| and |@Smudges:1| and |@Parabolic microphone:1| and (|@Photo camera:1| or |@Video camera:1| or |@Sound recorder:1|) and |Sunny meadows|"
+		},
+		{
+			"name": "Apocalypse 2",
+			"category": ["Meadows", "Apoc2Goal", "Goal"],
+			"requires": "|@Lighter:1| and |@Smudges:1| and |@Parabolic microphone:1| and (|@Photo camera:1| or |@Video camera:1| or |@Sound recorder:1|) and |Sunny meadows|",
+			"victory": true
+		},
+		{
+			"name": "Apocalypse III - I",
+			"category": ["Meadows", "Apocalypse", "Apoc III"],
+			"requires": "|@Lighter:1| and |@Smudges:1| and |@Parabolic microphone:1| and (|@Photo camera:1| or |@Video camera:1| or |@Sound recorder:1|) and |Sunny meadows|"
+		},
+		{
+			"name": "Apocalypse III - II",
+			"category": ["Meadows", "Apocalypse", "Apoc III"],
+			"requires": "|@Lighter:1| and |@Smudges:1| and |@Parabolic microphone:1| and (|@Photo camera:1| or |@Video camera:1| or |@Sound recorder:1|) and |Sunny meadows|"
+		},
+		{
+			"name": "Apocalypse III - III",
+			"category": ["Meadows", "Apocalypse", "Apoc III"],
+			"requires": "|@Lighter:1| and |@Smudges:1| and |@Parabolic microphone:1| and (|@Photo camera:1| or |@Video camera:1| or |@Sound recorder:1|) and |Sunny meadows|"
+		},
+		{
+			"name": "Apocalypse III - IV",
+			"category": ["Meadows", "Apocalypse", "Apoc III"],
+			"requires": "|@Lighter:1| and |@Smudges:1| and |@Parabolic microphone:1| and (|@Photo camera:1| or |@Video camera:1| or |@Sound recorder:1|) and |Sunny meadows|"
+		},
+		{
+			"name": "Apocalypse III - V",
+			"category": ["Meadows", "Apocalypse", "Apoc III"],
+			"requires": "|@Lighter:1| and |@Smudges:1| and |@Parabolic microphone:1| and (|@Photo camera:1| or |@Video camera:1| or |@Sound recorder:1|) and |Sunny meadows|"
+		},
+		{
+			"name": "Apocalypse 3",
+			"category": ["Meadows", "Apoc3Goal", "Goal"],
+			"requires": "|@Lighter:1| and |@Smudges:1| and |@Parabolic microphone:1| and (|@Photo camera:1| or |@Video camera:1| or |@Sound recorder:1|) and |Sunny meadows|",
+			"victory": true
+		},
+		{
+            "name": "Find a music box (Meadows)",
+            "category": ["Meadows posessions", "Meadows"],
+            "requires": "|Sunny meadows|"
+        },
+        {
+            "name": "Find a haunted mirror (Meadows)",
+            "category": ["Meadows posessions", "Meadows"],
+            "requires": "|Sunny meadows|"
+        },
+        {
+            "name": "Find a Ouija board (Meadows)",
+            "category": ["Meadows posessions", "Meadows"],
+            "requires": "|Sunny meadows|"
+        },
+        {
+            "name": "Find a summoning circle (Meadows)",
+            "category": ["Meadows posessions", "Meadows"],
+            "requires": "|Sunny meadows|"
+        },
+        {
+            "name": "Find a deck of tarot cards (Meadows)",
+            "category": ["Meadows posessions", "Meadows"],
+            "requires": "|Sunny meadows|"
+        },
+        {
+            "name": "Find a voodoo doll (Meadows)",
+            "category": ["Meadows posessions", "Meadows"],
+            "requires": "|Sunny meadows|"
+        },
+        {
+            "name": "Find a monkey paw  (Meadows)",
+            "category": ["Meadows posessions", "Meadows"],
+            "requires": "|Sunny meadows|",
+            "_comment": "---------------------------------------------------------------------------"
+        },
+        {
+            "name": "Prison completed - 1",
+            "category": ["Map completed", "Prison"],
+            "requires": "|Prison|"
+        },
+		{
+            "name": "Prison completed - 2",
+            "category": ["Map completed", "Prison"],
+            "requires": "|Prison|"
+        },
+		{
+            "name": "Prison completed - 3",
+            "category": ["Map completed", "Prison"],
+            "requires": "|Prison|"
+        },
+		{
+            "name": "Prison completed - 4",
+            "category": ["Map completed", "Prison"],
+            "requires": "|Prison|"
+        },
+		{
+            "name": "Prison completed - 5",
+            "category": ["Map completed", "Prison"],
+            "requires": "|Prison|"
+        },
+		{
+            "name": "Prison - Bone",
+            "category": ["Bones", "Prison"],
+            "requires": "|Prison|"
+        },
+        {
+            "name": "Capture a photo of any successful reading on an EMF (Prison)",
+            "category": ["Prison objectives", "Prison", "PhotoObj"],
+            "requires": "|@EMF:1| and |@Photo camera:1| and |Prison|"
+        },
+        {
+            "name": "Capture a photo of the ghost (Prison)",
+            "category": ["Prison objectives", "Prison", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Prison|"
+        },
+        {
+            "name": "Capture a video of the ghost (Prison)",
+            "category": ["Prison objectives", "Prison", "VideoObj"],
+            "requires": "|@Video camera:1| and |Prison|"
+        },
+		{
+            "name": "Capture 1 photo with a photo camera (Prison)",
+            "category": ["Prison objectives", "Prison", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Prison|"
+        },
+		{
+            "name": "Capture 2 unique photos with a photo camera (Prison)",
+            "category": ["Prison objectives", "Prison", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Prison|"
+        },
+        {
+            "name": "Capture 3 unique photos with a photo camera (Prison)",
+            "category": ["Prison objectives", "Prison", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Prison|"
+        },
+		{
+            "name": "Capture 4 unique photos with a photo camera (Prison)",
+            "category": ["Prison objectives", "Prison", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Prison|"
+        },
+		{
+            "name": "Capture 5 unique photos with a photo camera (Prison)",
+            "category": ["Prison objectives", "Prison", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Prison|"
+        },
+		{
+            "name": "Capture 1 video with a video camera (Prison)",
+            "category": ["Prison objectives", "Prison", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Prison|"
+        },
+		{
+            "name": "Capture 2 unique video with a video camera (Prison)",
+            "category": ["Prison objectives", "Prison", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Prison|"
+        },
+        {
+            "name": "Capture 3 unique video with a video camera (Prison)",
+            "category": ["Prison objectives", "Prison", "VideoObj"],
+            "requires": "|@Video camera:1| and |Prison|"
+        },
+		{
+            "name": "Capture 4 unique video with a video camera (Prison)",
+            "category": ["Prison objectives", "Prison", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Prison|"
+        },
+		{
+            "name": "Capture 5 unique video with a video camera (Prison)",
+            "category": ["Prison objectives", "Prison", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Prison|"
+        },
+		{
+            "name": "Capture 1 paranormal sound with a sound recorder (Prison)",
+            "category": ["Prison objectives", "Prison", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Prison|"
+        },
+        {
+            "name": "Capture 2 paranormal sound with a sound recorder (Prison)",
+            "category": ["Prison objectives", "Prison", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Prison|"
+        },
+		{
+            "name": "Capture 3 paranormal sound with a sound recorder (Prison)",
+            "category": ["Prison objectives", "Prison", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Prison|"
+        },
+        {
+            "name": "Detect a ghost presence with a motion sensor (Prison)",
+            "category": ["Prison objectives", "Prison", "SensorObj"],
+            "requires": "|@Motion sensor:1| and |Prison|"
+        },
+        {
+            "name": "Prevent ghost from hunting with a crucifix (Prison)",
+            "category": ["Prison objectives", "Prison", "CrucifixObj"],
+            "requires": "|@Crucifix:1| and |Prison|"
+        },
+        {
+            "name": "Have someone witness a ghost event (Prison)",
+            "category": ["Prison objectives", "Prison", "WitnessObj"],
+            "requires": "|Prison|"
+        },
+        {
+            "name": "Cleanse the area near the ghost using incense (Prison)",
+            "category": ["Prison objectives", "Prison", "CleanseObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Prison|"
+        },
+        {
+            "name": "Repel the ghost with incense while it's chasing someone (Prison)",
+            "category": ["Prison objectives", "Prison", "RepelObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Prison|"
+        },
+        {
+            "name": "Get the ghost to blow out a firelight (Prison)",
+            "category": ["Prison objectives", "Prison", "FirelightObj"],
+            "requires": "|@Firelight:1| and |@Lighter:1| and |Prison|"
+        },
+        {
+            "name": "Have a member of the team escape the ghost during a hunt (Prison)",
+            "category": ["Prison objectives", "Prison", "EscapeObj"],
+            "requires": "|Prison| and |@Lighter:1| and |@Smudges:1|"
+        },
+        {
+            "name": "Get the average sanity down to 25% (Prison)",
+            "category": ["Prison objectives", "Prison", "SanityObj"],
+            "requires": "|Prison|"
+        },
+        {
+            "name": "Detect a paranormal sound with a parabolic microphone (Prison)",
+            "category": ["Prison objectives", "Prison", "ParamicObj"],
+            "requires": "|@Parabolic microphone:1| and |Prison|"
+        },
+		{
+            "name": "Find a music box (Prison)",
+            "category": ["Prison posessions", "Prison"],
+            "requires": "|Prison|"
+        },
+        {
+            "name": "Find a haunted mirror (Prison)",
+            "category": ["Prison posessions", "Prison"],
+            "requires": "|Prison|"
+        },
+        {
+            "name": "Find a Ouija board (Prison)",
+            "category": ["Prison posessions", "Prison"],
+            "requires": "|Prison|"
+        },
+        {
+            "name": "Find a summoning circle (Prison)",
+            "category": ["Prison posessions", "Prison"],
+            "requires": "|Prison|"
+        },
+        {
+            "name": "Find a deck of tarot cards (Prison)",
+            "category": ["Prison posessions", "Prison"],
+            "requires": "|Prison|"
+        },
+        {
+            "name": "Find a voodoo doll (Prison)",
+            "category": ["Prison posessions", "Prison"],
+            "requires": "|Prison|"
+        },
+        {
+            "name": "Find a monkey paw  (Prison)",
+            "category": ["Prison posessions", "Prison"],
+            "requires": "|Prison|",
+            "_comment": "---------------------------------------------------------------------------"
+        },
+        {
+            "name": "Maple lodge campsite completed - 1",
+            "category": ["Map completed", "Maple lodge"],
+            "requires": "|Maple lodge campsite|"
+        },
+		{
+            "name": "Maple lodge campsite completed - 2",
+            "category": ["Map completed", "Maple lodge"],
+            "requires": "|Maple lodge campsite|"
+        },
+		{
+            "name": "Maple lodge campsite completed - 3",
+            "category": ["Map completed", "Maple lodge"],
+            "requires": "|Maple lodge campsite|"
+        },
+		{
+            "name": "Maple lodge campsite completed - 4",
+            "category": ["Map completed", "Maple lodge"],
+            "requires": "|Maple lodge campsite|"
+        },
+		{
+            "name": "Maple lodge campsite completed - 5",
+            "category": ["Map completed", "Maple lodge"],
+            "requires": "|Maple lodge campsite|"
+        },
+		{
+            "name": "Maple lodge - Bone",
+            "category": ["Bones", "Maple lodge"],
+            "requires": "|Maple lodge campsite|"
+        },
+        {
+            "name": "Capture a photo of any successful reading on an EMF (Maple lodge)",
+            "category": ["Maple lodge objectives", "Maple lodge", "PhotoObj"],
+            "requires": "|@EMF:1| and |@Photo camera:1| and |Maple lodge campsite|"
+        },
+        {
+            "name": "Capture a photo of the ghost (Maple lodge)",
+            "category": ["Maple lodge objectives", "Maple lodge", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Maple lodge campsite|"
+        },
+        {
+            "name": "Capture a video of the ghost (Maple lodge)",
+            "category": ["Maple lodge objectives", "Maple lodge", "VideoObj"],
+            "requires": "|@Video camera:1| and |Maple lodge campsite|"
+        },
+		{
+            "name": "Capture 1 photos with a photo camera (Maple lodge)",
+            "category": ["Maple lodge objectives", "Maple lodge", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Maple lodge campsite|"
+        },
+		{
+            "name": "Capture 2 unique photos with a photo camera (Maple lodge)",
+            "category": ["Maple lodge objectives", "Maple lodge", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Maple lodge campsite|"
+        },
+        {
+            "name": "Capture 3 unique photos with a photo camera (Maple lodge)",
+            "category": ["Maple lodge objectives", "Maple lodge", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Maple lodge campsite|"
+        },
+		{
+            "name": "Capture 4 unique photos with a photo camera (Maple lodge)",
+            "category": ["Maple lodge objectives", "Maple lodge", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Maple lodge campsite|"
+        },
+		{
+            "name": "Capture 5 unique photos with a photo camera (Maple lodge)",
+            "category": ["Maple lodge objectives", "Maple lodge", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Maple lodge campsite|"
+        },
+		{
+            "name": "Capture 1 video with a video camera (Maple lodge)",
+            "category": ["Maple lodge objectives", "Maple lodge", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Maple lodge campsite|"
+        },
+		{
+            "name": "Capture 2 unique video with a video camera (Maple lodge)",
+            "category": ["Maple lodge objectives", "Maple lodge", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Maple lodge campsite|"
+        },
+        {
+            "name": "Capture 3 unique video with a video camera (Maple lodge)",
+            "category": ["Maple lodge objectives", "Maple lodge", "VideoObj"],
+            "requires": "|@Video camera:1| and |Maple lodge campsite|"
+        },
+		{
+            "name": "Capture 4 unique video with a video camera (Maple lodge)",
+            "category": ["Maple lodge objectives", "Maple lodge", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Maple lodge campsite|"
+        },
+		{
+            "name": "Capture 5 unique video with a video camera (Maple lodge)",
+            "category": ["Maple lodge objectives", "Maple lodge", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Maple lodge campsite|"
+        },
+		{
+            "name": "Capture 1 paranormal sound with a sound recorder (Maple lodge)",
+            "category": ["Maple lodge objectives", "Maple lodge", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Maple lodge campsite|"
+        },
+        {
+            "name": "Capture 2 paranormal sound with a sound recorder (Maple lodge)",
+            "category": ["Maple lodge objectives", "Maple lodge", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Maple lodge campsite|"
+        },
+		{
+            "name": "Capture 3 paranormal sound with a sound recorder (Maple lodge)",
+            "category": ["Maple lodge objectives", "Maple lodge", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Maple lodge campsite|"
+        },
+        {
+            "name": "Detect a ghost presence with a motion sensor (Maple lodge)",
+            "category": ["Maple lodge objectives", "Maple lodge", "SensorObj"],
+            "requires": "|@Motion sensor:1| and |Maple lodge campsite|"
+        },
+        {
+            "name": "Prevent ghost from hunting with a crucifix (Maple lodge)",
+            "category": ["Maple lodge objectives", "Maple lodge", "CrucifixObj"],
+            "requires": "|@Crucifix:1| and |Maple lodge campsite|"
+        },
+        {
+            "name": "Have someone witness a ghost event (Maple lodge)",
+            "category": ["Maple lodge objectives", "Maple lodge", "WitnessObj"],
+            "requires": "|Maple lodge campsite|"
+        },
+        {
+            "name": "Cleanse the area near the ghost using incense (Maple lodge)",
+            "category": ["Maple lodge objectives", "Maple lodge", "CleanseObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Maple lodge campsite|"
+        },
+        {
+            "name": "Repel the ghost with incense while it's chasing someone (Maple lodge)",
+            "category": ["Maple lodge objectives", "Maple lodge", "RepelObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Maple lodge campsite|"
+        },
+        {
+            "name": "Get the ghost to blow out a firelight (Maple lodge)",
+            "category": ["Maple lodge objectives", "Maple lodge", "FirelightObj"],
+            "requires": "|@Firelight:1| and |@Lighter:1| and |Maple lodge campsite|"
+        },
+        {
+            "name": "Have a member of the team escape the ghost during a hunt (Maple lodge)",
+            "category": ["Maple lodge objectives", "Maple lodge", "EscapeObj"],
+            "requires": "|Maple lodge campsite| and |@Lighter:1| and |@Smudges:1|"
+        },
+        {
+            "name": "Get the average sanity down to 25% (Maple lodge)",
+            "category": ["Maple lodge objectives", "Maple lodge", "SanityObj"],
+            "requires": "|Maple lodge campsite|"
+        },
+        {
+            "name": "Detect a paranormal sound with a parabolic microphone (Maple lodge)",
+            "category": ["Maple lodge objectives", "Maple lodge", "ParamicObj"],
+            "requires": "|@Parabolic microphone:1| and |Maple lodge campsite|"
+        },
+		{
+            "name": "Find a music box (Maple lodge)",
+            "category": ["Maple lodge posessions", "Maple lodge"],
+            "requires": "|Maple lodge campsite|"
+        },
+        {
+            "name": "Find a haunted mirror (Maple lodge)",
+            "category": ["Maple lodge posessions", "Maple lodge"],
+            "requires": "|Maple lodge campsite|"
+        },
+        {
+            "name": "Find a Ouija board (Maple lodge)",
+            "category": ["Maple lodge posessions", "Maple lodge"],
+            "requires": "|Maple lodge campsite|"
+        },
+        {
+            "name": "Find a summoning circle (Maple lodge)",
+            "category": ["Maple lodge posessions", "Maple lodge"],
+            "requires": "|Maple lodge campsite|"
+        },
+        {
+            "name": "Find a deck of tarot cards (Maple lodge)",
+            "category": ["Maple lodge posessions", "Maple lodge"],
+            "requires": "|Maple lodge campsite|"
+        },
+        {
+            "name": "Find a voodoo doll (Maple lodge)",
+            "category": ["Maple lodge posessions", "Maple lodge"],
+            "requires": "|Maple lodge campsite|"
+        },
+        {
+            "name": "Find a monkey paw  (Maple lodge)",
+            "category": ["Maple lodge posessions", "Maple lodge"],
+            "requires": "|Maple lodge campsite|",
+            "_comment": "---------------------------------------------------------------------------"
+        },
+        {
+            "name": "Brownstone high school completed - 1",
+            "category": ["Map completed", "High school"],
+            "requires": "|Brownstone high school|"
+        },
+		{
+            "name": "Brownstone high school completed - 2",
+            "category": ["Map completed", "High school"],
+            "requires": "|Brownstone high school|"
+        },
+		{
+            "name": "Brownstone high school completed - 3",
+            "category": ["Map completed", "High school"],
+            "requires": "|Brownstone high school|"
+        },
+		{
+            "name": "Brownstone high school completed - 4",
+            "category": ["Map completed", "High school"],
+            "requires": "|Brownstone high school|"
+        },
+		{
+            "name": "Brownstone high school completed - 5",
+            "category": ["Map completed", "High school"],
+            "requires": "|Brownstone high school|"
+        },
+		{
+            "name": "High school - Bone",
+            "category": ["Bones", "High school"],
+            "requires": "|Brownstone high school|"
+        },
+        {
+            "name": "Capture a photo of any successful reading on an EMF (High school)",
+            "category": ["High school objectives", "High school", "PhotoObj"],
+            "requires": "|@EMF:1| and |@Photo camera:1| and |Brownstone high school|"
+        },
+        {
+            "name": "Capture a photo of the ghost (High school)",
+            "category": ["High school objectives", "High school", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Brownstone high school|"
+        },
+        {
+            "name": "Capture a video of the ghost (High school)",
+            "category": ["High school objectives", "High school", "VideoObj"],
+            "requires": "|@Video camera:1| and |Brownstone high school|"
+        },
+		{
+            "name": "Capture 1 photos with a photo camera (High school)",
+            "category": ["High school objectives", "High school", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Brownstone high school|"
+        },
+		{
+            "name": "Capture 2 unique photos with a photo camera (High school)",
+            "category": ["High school objectives", "High school", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Brownstone high school|"
+        },
+        {
+            "name": "Capture 3 unique photos with a photo camera (High school)",
+            "category": ["High school objectives", "High school", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Brownstone high school|"
+        },
+		{
+            "name": "Capture 4 unique photos with a photo camera (High school)",
+            "category": ["High school objectives", "High school", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Brownstone high school|"
+        },
+		{
+            "name": "Capture 5 unique photos with a photo camera (High school)",
+            "category": ["High school objectives", "High school", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Brownstone high school|"
+        },
+		{
+            "name": "Capture 1 video with a video camera (High school)",
+            "category": ["High school objectives", "High school", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Brownstone high school|"
+        },
+		{
+            "name": "Capture 2 unique video with a video camera (High school)",
+            "category": ["High school objectives", "High school", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Brownstone high school|"
+        },
+        {
+            "name": "Capture 3 unique video with a video camera (High school)",
+            "category": ["High school objectives", "High school", "VideoObj"],
+            "requires": "|@Video camera:1| and |Brownstone high school|"
+        },
+		{
+            "name": "Capture 4 unique video with a video camera (High school)",
+            "category": ["High school objectives", "High school", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Brownstone high school|"
+        },
+		{
+            "name": "Capture 5 unique video with a video camera (High school)",
+            "category": ["High school objectives", "High school", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Brownstone high school|"
+        },
+		{
+            "name": "Capture 1 paranormal sound with a sound recorder (High school)",
+            "category": ["High school objectives", "High school", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Brownstone high school|"
+        },
+        {
+            "name": "Capture 2 paranormal sound with a sound recorder (High school)",
+            "category": ["High school objectives", "High school", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Brownstone high school|"
+        },
+		{
+            "name": "Capture 3 paranormal sound with a sound recorder (High school)",
+            "category": ["High school objectives", "High school", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Brownstone high school|"
+        },
+        {
+            "name": "Detect a ghost presence with a motion sensor (High school)",
+            "category": ["High school objectives", "High school", "SensorObj"],
+            "requires": "|@Motion sensor:1| and |Brownstone high school|"
+        },
+        {
+            "name": "Prevent ghost from hunting with a crucifix (High school)",
+            "category": ["High school objectives", "High school", "CrucifixObj"],
+            "requires": "|@Crucifix:1| and |Brownstone high school|"
+        },
+        {
+            "name": "Have someone witness a ghost event (High school)",
+            "category": ["High school objectives", "High school", "WitnessObj"],
+            "requires": "|Brownstone high school|"
+        },
+        {
+            "name": "Cleanse the area near the ghost using incense (High school)",
+            "category": ["High school objectives", "High school", "CleanseObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Brownstone high school|"
+        },
+        {
+            "name": "Repel the ghost with incense while it's chasing someone (High school)",
+            "category": ["High school objectives", "High school", "RepelObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Brownstone high school|"
+        },
+        {
+            "name": "Get the ghost to blow out a firelight (High school)",
+            "category": ["High school objectives", "High school", "FirelightObj"],
+            "requires": "|@Firelight:1| and |@Lighter:1| and |Brownstone high school|"
+        },
+        {
+            "name": "Have a member of the team escape the ghost during a hunt (High school)",
+            "category": ["High school objectives", "High school", "EscapeObj"],
+            "requires": "|Brownstone high school| and |@Lighter:1| and |@Smudges:1|"
+        },
+        {
+            "name": "Get the average sanity down to 25% (High school)",
+            "category": ["High school objectives", "High school", "SanityObj"],
+            "requires": "|Brownstone high school|"
+        },
+        {
+            "name": "Detect a paranormal sound with a parabolic microphone (High school)",
+            "category": ["High school objectives", "High school", "ParamicObj"],
+            "requires": "|@Parabolic microphone:1| and |Brownstone high school|"
+        },
+		{
+            "name": "Find a music box (High school)",
+            "category": ["High school posessions", "High school"],
+            "requires": "|Brownstone high school|"
+        },
+        {
+            "name": "Find a haunted mirror (High school)",
+            "category": ["High school posessions", "High school"],
+            "requires": "|Brownstone high school|"
+        },
+        {
+            "name": "Find a Ouija board (High school)",
+            "category": ["High school posessions", "High school"],
+            "requires": "|Brownstone high school|"
+        },
+        {
+            "name": "Find a summoning circle (High school)",
+            "category": ["High school posessions", "High school"],
+            "requires": "|Brownstone high school|"
+        },
+        {
+            "name": "Find a deck of tarot cards (High school)",
+            "category": ["High school posessions", "High school"],
+            "requires": "|Brownstone high school|"
+        },
+        {
+            "name": "Find a voodoo doll (High school)",
+            "category": ["High school posessions", "High school"],
+            "requires": "|Brownstone high school|"
+        },
+        {
+            "name": "Find a monkey paw  (High school)",
+            "category": ["High school posessions", "High school"],
+            "requires": "|Brownstone high school|",
+            "_comment": "---------------------------------------------------------------------------"
+        },
+        {
+            "name": "Find a music box",
+            "category": ["Cursed posessions"],
+            "requires": "|@Map unlocks:1|"
+        },
+        {
+            "name": "Find a haunted mirror",
+            "category": ["Cursed posessions"],
+            "requires": "|@Map unlocks:1|"
+        },
+        {
+            "name": "Find a Ouija board",
+            "category": ["Cursed posessions"],
+            "requires": "|@Map unlocks:1|"
+        },
+        {
+            "name": "Find a summoning circle",
+            "category": ["Cursed posessions"],
+            "requires": "|@Map unlocks:1|"
+        },
+        {
+            "name": "Find a deck of tarot cards",
+            "category": ["Cursed posessions"],
+            "requires": "|@Map unlocks:1|"
+        },
+        {
+            "name": "Find a voodoo doll",
+            "category": ["Cursed posessions"],
+            "requires": "|@Map unlocks:1|"
+        },
+        {
+            "name": "Find a monkey paw",
+            "category": ["Cursed posessions"],
+            "requires": "|@Map unlocks:1|",
+            "_comment": "---------------------------------------------------------------------------"
+        },
+		{
+            "name": "Capture a photo of any successful reading on an EMF",
+            "category": ["Objectives", "Normal Objective", "PhotoObj"],
+            "requires": "|@EMF:1| and |@Photo camera:1| and |@Map unlocks:1|"
+        },
+        {
+            "name": "Capture a photo of the ghost",
+            "category": ["Objectives", "Normal Objective", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |@Map unlocks:1|"
+        },
+        {
+            "name": "Capture a video of the ghost",
+            "category": ["Objectives", "Normal Objective", "VideoObj"],
+            "requires": "|@Video camera:1| and |@Map unlocks:1|"
+        },
+		{
+            "name": "Capture 1 photo with a photo camera",
+            "category": ["Objectives", "Normal Objective", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |@Map unlocks:1|"
+        },
+		{
+            "name": "Capture 2 unique photos with a photo camera",
+            "category": ["Objectives", "Normal Objective", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |@Map unlocks:1|"
+        },
+        {
+            "name": "Capture 3 unique photos with a photo camera",
+            "category": ["Objectives", "Normal Objective", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |@Map unlocks:1|"
+        },
+		{
+            "name": "Capture 4 unique photos with a photo camera",
+            "category": ["Objectives", "Normal Objective", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |@Map unlocks:1|"
+        },
+		{
+            "name": "Capture 5 unique photos with a photo camera",
+            "category": ["Objectives", "Normal Objective", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |@Map unlocks:1|"
+        },
+		{
+            "name": "Capture 1 video with a video camera",
+            "category": ["Objectives", "Normal Objective", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |@Map unlocks:1|"
+        },
+		{
+            "name": "Capture 2 unique video with a video camera",
+            "category": ["Objectives", "Normal Objective", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |@Map unlocks:1|"
+        },
+        {
+            "name": "Capture 3 unique video with a video camera",
+            "category": ["Objectives", "Normal Objective", "VideoObj"],
+            "requires": "|@Video camera:1| and |@Map unlocks:1|"
+        },
+		{
+            "name": "Capture 4 unique video with a video camera",
+            "category": ["Objectives", "Normal Objective", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |@Map unlocks:1|"
+        },
+		{
+            "name": "Capture 5 unique video with a video camera",
+            "category": ["Objectives", "Normal Objective", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |@Map unlocks:1|"
+        },
+		{
+            "name": "Capture 1 paranormal sound with a sound recorder",
+            "category": ["Objectives", "Normal Objective", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |@Map unlocks:1|"
+        },
+        {
+            "name": "Capture 2 paranormal sound with a sound recorder",
+            "category": ["Objectives", "Normal Objective", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |@Map unlocks:1|"
+        },
+		{
+            "name": "Capture 3 paranormal sound with a sound recorder",
+            "category": ["Objectives", "Normal Objective", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |@Map unlocks:1|"
+        },
+        {
+            "name": "Detect a ghost presence with a motion sensor",
+            "category": ["Objectives", "Normal Objective", "SensorObj"],
+            "requires": "|@Motion sensor:1| and |@Map unlocks:1|"
+        },
+        {
+            "name": "Prevent ghost from hunting with a crucifix",
+            "category": ["Objectives", "Normal Objective", "CrucifixObj"],
+            "requires": "|@Crucifix:1| and |@Map unlocks:1|"
+        },
+        {
+            "name": "Have someone witness a ghost event",
+            "category": ["Objectives", "Normal Objective", "WitnessObj"],
+            "requires": "|@Map unlocks:1|"
+        },
+        {
+            "name": "Cleanse the area near the ghost using incense",
+            "category": ["Objectives", "Normal Objective", "CleanseObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |@Map unlocks:1|"
+        },
+        {
+            "name": "Repel the ghost with incense while it's chasing someone",
+            "category": ["Objectives", "Normal Objective", "RepelObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |@Map unlocks:1|"
+        },
+        {
+            "name": "Get the ghost to blow out a firelight",
+            "category": ["Objectives", "Normal Objective", "FirelightObj"],
+            "requires": "|@Firelight:1| and |@Lighter:1| and |@Map unlocks:1|"
+        },
+        {
+            "name": "Have a member of the team escape the ghost during a hunt",
+            "category": ["Objectives", "Normal Objective", "EscapeObj"],
+            "requires": "|@Map unlocks:1| and |@Lighter:1| and |@Smudges:1|"
+        },
+        {
+            "name": "Get the average sanity down to 25%",
+            "category": ["Objectives", "Normal Objective", "SanityObj"],
+            "requires": "|@Map unlocks:1|"
+        },
+        {
+            "name": "Detect a paranormal sound with a parabolic microphone",
+            "category": ["Objectives", "Normal Objective", "ParamicObj"],
+            "requires": "|@Map unlocks:1|, |@Parabolic microphone:1|",
+			"_comment": "-------------------------------------------------------------------------"
+        },
+		{
+			"name": "The ol' objective [Dirty water]",
+			"category": ["Gambler"],
+			"requires": "|@Map unlocks:1| and |@Photo camera:1|"
+		},
+		{
+			"name": "Doom slayed",
+			"category": ["Gambler"],
+			"requires": "|@Map unlocks:1|"
+		},
+		{
+			"name": "When i'm a fool",
+			"category": ["Gambler"],
+			"requires": "|@Map unlocks:1|",
+			"hint_entrance": "Draw a fool card on the first try"
+		},
+		{
+			"name": "Right in my heart",
+			"category": ["Gambler"],
+			"requires": "|@Map unlocks:1|",
+			"hint_entrance": "Heart pin first try with voodoo doll"
+		},
+		{
+			"name": "It's EASY to navigate ~ASuperElf [Prison ghost room found in less than 5min without cursed posession]",
+			"category": ["Gambler", "Prison"],
+			"requires": "|Prison|"
+		},
+		{
+			"name": "It's really EASY to navigate ~ASuperElf [Prison bone found in without cursed posessions]",
+			"category": ["Gambler", "Prison"],
+			"requires": "|Prison|"
+		},
+		{
+			"name": "Red light ghost event",
+			"category": ["Gambler"],
+			"requires": "|@Map unlocks:1|"
+		},
+		{
+			"name": "Laugh of a child",
+			"category": ["Gambler"],
+			"requires": "|@Map unlocks:1|"
+		},
+		{
+			"name": "Unlucky~ [Killed by a ghost within a sec of a hunt starting]",
+			"category": ["Gambler"],
+			"requires": "|@Map unlocks:1|"
+		},
+		{
+			"name": "Meow~",
+			"category": ["Gambler"],
+			"requires": "|13 Willow street|",
+			"hint_entrance": "Hear a cat's meow on Willow street"
+		},
+		{
+			"name": "Woodwind correct guess [12.97mult non-Speedy ghost]",
+			"category": ["Gambler"],
+			"requires": "|Camp woodwind| and |@Smudges:1| and |@Lighter:1|"
+		},
+		{
+			"name": "Hated by a shade",
+			"category": ["Gambler"],
+			"requires": "|@Map unlocks:1|",
+			"hint_entrance": "Get hunted by a shade without the use of cursed posessions in the round",
+			"_comment": "--------------------------------------------------------------------------------"
+		},
+		{
+			"name": "All map completed",
+			"category": ["Goal"],
+			"requires": "|@Map unlocks:ALL|",
+			"victory": true
+		}
+    ]
+}
