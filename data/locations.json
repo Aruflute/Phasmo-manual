@@ -825,9 +825,24 @@
             "category": ["Grafton objectives", "Grafton", "VideoObj"],
             "requires": "|@Video camera:1| and |Grafton farmhouse|"
         },
+		{
+            "name": "Capture 1 unique photos with a photo camera (Grafton)",
+            "category": ["Grafton objectives", "Grafton", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Grafton farmhouse|"
+        },
+		{
+            "name": "Capture 2 unique photos with a photo camera (Grafton)",
+            "category": ["Grafton objectives", "Grafton", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Grafton farmhouse|"
+        },
         {
             "name": "Capture 3 unique photos with a photo camera (Grafton)",
             "category": ["Grafton objectives", "Grafton", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Grafton farmhouse|"
+        },
+		{
+            "name": "Capture 4 unique photos with a photo camera (Grafton)",
+            "category": ["Grafton objectives", "Grafton", "100", "PhotoObj"],
             "requires": "|@Photo camera:1| and |Grafton farmhouse|"
         },
 		{
@@ -835,9 +850,24 @@
             "category": ["Grafton objectives", "Grafton", "100", "PhotoObj"],
             "requires": "|@Photo camera:1| and |Grafton farmhouse|"
         },
+		{
+            "name": "Capture 1 unique video with a video camera (Grafton)",
+            "category": ["Grafton objectives", "Grafton", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Grafton farmhouse|"
+        },
+		{
+            "name": "Capture 2 unique videos with a video camera (Grafton)",
+            "category": ["Grafton objectives", "Grafton", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Grafton farmhouse|"
+        },
         {
             "name": "Capture 3 unique video with a video camera (Grafton)",
             "category": ["Grafton objectives", "Grafton", "VideoObj"],
+            "requires": "|@Video camera:1| and |Grafton farmhouse|"
+        },
+		{
+            "name": "Capture 4 unique videos with a video camera (Grafton)",
+            "category": ["Grafton objectives", "Grafton", "100", "VideoObj"],
             "requires": "|@Video camera:1| and |Grafton farmhouse|"
         },
 		{
