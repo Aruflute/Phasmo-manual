@@ -4,17 +4,17 @@
         {
             "name": "Flashlight LV 1",
             "category": ["Items", "Flashlight", "LV1"],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Flashlight LV 2",
             "category": ["Items", "Flashlight", "LV2"],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Flashlight LV 3",
             "category": ["Items", "Flashlight", "LV3"],
-            "progression": true
+            "useful": true
         },
         {
             "name": "D.O.T.S Projector LV 1",
@@ -109,8 +109,7 @@
         {
             "name": "Video camera LV 1",
             "category": ["Items", "Video camera", "LV1"],
-            "progression": true,
-			"early": true
+            "progression": true
         },
         {
             "name": "Video camera LV 2",
@@ -150,23 +149,22 @@
         {
             "name": "Firelight LV 3",
             "category": ["Items", "Firelight", "LV3"],
-            "progression": true,
-			"early": true
+            "progression": true
         },
         {
             "name": "Head gear LV 1",
             "category": ["Items", "Head gear", "LV1"],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Head gear LV 2",
             "category": ["Items", "Head gear", "LV2"],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Head gear LV 3",
             "category": ["Items", "Head gear", "LV3"],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Lighter LV 1",
@@ -177,14 +175,12 @@
         {
             "name": "Lighter LV 2",
             "category": ["Items", "Lighter", "LV2"],
-            "progression": true,
-			"early": true
+            "progression": true
         },
         {
             "name": "Lighter LV 3",
             "category": ["Items", "Lighter", "LV3"],
-            "progression": true,
-			"early": true
+            "progression": true
         },
         {
             "name": "Motion sensor LV 1",
@@ -219,8 +215,7 @@
         {
             "name": "Photo camera LV 1",
             "category": ["Items", "Photo camera", "LV1"],
-            "progression": true,
-			"early": true
+            "progression": true
         },
         {
             "name": "Photo camera LV 2",
@@ -250,17 +245,17 @@
         {
             "name": "Sanity medication LV 1",
             "category": ["Items", "Sanity", "LV1"],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Sanity medication LV 2",
             "category": ["Items", "Sanity", "LV2"],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Sanity medication LV 3",
             "category": ["Items", "Sanity", "LV3"],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Sound recorder LV 1",
@@ -295,17 +290,17 @@
         {
             "name": "Tripod LV 1",
             "category": ["Items", "Tripod", "LV1"],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Tripod LV 2",
             "category": ["Items", "Tripod", "LV2"],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Tripod LV 3",
             "category": ["Items", "Tripod", "LV3"],
-            "progression": true
+            "useful": true
         },
 		{
             "name": "Smudge stick LV 1",
@@ -316,14 +311,12 @@
 		{
             "name": "Smudge stick LV 2",
             "category": ["Items", "Smudges", "LV2"],
-            "progression": true,
-			"early": true
+            "progression": true
         },
 		{
             "name": "Smudge stick LV 3",
             "category": ["Items", "Smudges", "LV3"],
-            "progression": true,
-			"early": true
+            "progression": true
         },
 		{
 			"name": "6 Tanglewood drive",
@@ -386,6 +379,11 @@
 			"progression": true
 		},
 		{
+			"name": "Restricted Prison",
+			"category": ["Map unlocks", "Prison restricted", "BigMaps"],
+			"progression": true
+		},
+		{
 			"name": "Maple lodge campsite",
 			"category": ["Map unlocks", "Maple lodge", "BigMaps"],
 			"progression": true
@@ -394,6 +392,26 @@
 			"name": "Brownstone high school",
 			"category": ["Map unlocks", "High school", "BigMaps"],
 			"progression": true
+		},
+		{
+			"name": "Restricted Brownstone high school",
+			"category": ["Map unlocks", "School restricted", "BigMaps"],
+			"progression": true
+		},
+		{
+			"name": "Restricted Point hope",
+			"category": ["Map unlocks", "Restricted Point hope", "BigMaps"],
+			"progression": true
+		},
+		{
+			"name": "Trap : Mute the game",
+			"category": ["Traps"],
+			"trap": true
+		},
+		{
+			"name": "Trap : Set brightness to the lowest",
+			"category": ["Traps"],
+			"trap": true
 		},
 		{
 			"name": "nothing of value",
