@@ -9,12 +9,12 @@
         {
             "name": "Starter check - 2",
             "category": ["Starter check"],
-			"dont_place_item_category": ["BigMaps"]
+			"dont_place_item_category": ["BigMaps", "Lighter"]
         },
         {
             "name": "Starter check - 3",
             "category": ["Starter check"],
-			"dont_place_item_category": ["BigMaps"]
+			"dont_place_item_category": ["BigMaps", "Incense"]
         },
 		{
 			"name": "6 Tanglewood Drive completed - 1",
@@ -861,7 +861,7 @@
             "requires": "|@Video camera:1| and |Grafton farmhouse|"
         },
         {
-            "name": "Capture 3 unique video with a video camera (Grafton)",
+            "name": "Capture 3 unique videos with a video camera (Grafton)",
             "category": ["Grafton objectives", "Grafton", "VideoObj"],
             "requires": "|@Video camera:1| and |Grafton farmhouse|"
         },
@@ -871,9 +871,14 @@
             "requires": "|@Video camera:1| and |Grafton farmhouse|"
         },
 		{
-            "name": "Capture 5 unique video with a video camera (Grafton)",
+            "name": "Capture 5 unique videos with a video camera (Grafton)",
             "category": ["Grafton objectives", "Grafton", "100", "VideoObj"],
             "requires": "|@Video camera:1| and |Grafton farmhouse|"
+        },
+		{
+            "name": "Capture 1 paranormal sound with a sound recorder (Grafton)",
+            "category": ["Grafton objectives", "Grafton", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Grafton farmhouse|"
         },
         {
             "name": "Capture 2 paranormal sound with a sound recorder (Grafton)",
@@ -1310,7 +1315,7 @@
         {
             "name": "Detect a paranormal sound with a parabolic microphone (Woodwind)",
             "category": ["Woodwind objectives", "Woodwind", "ParamicObj"],
-            "requires": "|@Parabolic microphone:1| and |@Map unlocks:1|"
+            "requires": "|@Parabolic microphone:1| and |Camp woodwind|"
         },
 		{
             "name": "Find a music box (Woodwind)",
@@ -2772,6 +2777,579 @@
             "requires": "|Brownstone high school|",
             "_comment": "---------------------------------------------------------------------------"
         },
+		{
+            "name": "Restricted Prison completed - 1",
+            "category": ["Map completed", "Prison restricted"],
+            "requires": "|Restricted Prison|"
+        },
+		{
+            "name": "Restricted Prison completed - 2",
+            "category": ["Map completed", "Prison restricted"],
+            "requires": "|Restricted Prison|"
+        },
+		{
+            "name": "Restricted Prison completed - 3",
+            "category": ["Map completed", "Prison restricted"],
+            "requires": "|Restricted Prison|"
+        },
+		{
+            "name": "Restricted Prison completed - 4",
+            "category": ["Map completed", "Prison restricted"],
+            "requires": "|Restricted Prison|"
+        },
+		{
+            "name": "Restricted Prison completed - 5",
+            "category": ["Map completed", "Prison restricted"],
+            "requires": "|Restricted Prison|"
+        },
+		{
+            "name": "Restricted Prison - Bone",
+            "category": ["Bones", "Prison restricted"],
+            "requires": "|Restricted Prison|"
+        },
+        {
+            "name": "Capture a photo of any successful reading on an EMF (Prison restricted)",
+            "category": ["Prison restricted objectives", "Prison restricted", "PhotoObj"],
+            "requires": "|@EMF:1| and |@Photo camera:1| and |Restricted Prison|"
+        },
+        {
+            "name": "Capture a photo of the ghost (Prison restricted)",
+            "category": ["Prison restricted objectives", "Prison restricted", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Restricted Prison|"
+        },
+        {
+            "name": "Capture a video of the ghost (Prison restricted)",
+            "category": ["Prison restricted objectives", "Prison restricted", "VideoObj"],
+            "requires": "|@Video camera:1| and |Restricted Prison|"
+        },
+		{
+            "name": "Capture 1 photo with a photo camera (Prison restricted)",
+            "category": ["Prison restricted objectives", "Prison restricted", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Restricted Prison|"
+        },
+		{
+            "name": "Capture 2 unique photos with a photo camera (Prison restricted)",
+            "category": ["Prison restricted objectives", "Prison restricted", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Restricted Prison|"
+        },
+        {
+            "name": "Capture 3 unique photos with a photo camera (Prison restricted)",
+            "category": ["Prison restricted objectives", "Prison restricted", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Restricted Prison|"
+        },
+		{
+            "name": "Capture 4 unique photos with a photo camera (Prison restricted)",
+            "category": ["Prison restricted objectives", "Prison restricted", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Restricted Prison|"
+        },
+		{
+            "name": "Capture 5 unique photos with a photo camera (Prison restricted)",
+            "category": ["Prison restricted objectives", "Prison restricted", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Restricted Prison|"
+        },
+		{
+            "name": "Capture 1 unique video with a video camera (Prison restricted)",
+            "category": ["Prison restricted objectives", "Prison restricted", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Restricted Prison|"
+        },
+		{
+            "name": "Capture 2 unique video with a video camera (Prison restricted)",
+            "category": ["Prison restricted objectives", "Prison restricted", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Restricted Prison|"
+        },
+        {
+            "name": "Capture 3 unique video with a video camera (Prison restricted)",
+            "category": ["Prison restricted objectives", "Prison restricted", "VideoObj"],
+            "requires": "|@Video camera:1| and |Restricted Prison|"
+        },
+		{
+            "name": "Capture 4 unique video with a video camera (Prison restricted)",
+            "category": ["Prison restricted objectives", "Prison restricted", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Restricted Prison|"
+        },
+		{
+            "name": "Capture 5 unique video with a video camera (Prison restricted)",
+            "category": ["Prison restricted objectives", "Prison restricted", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Restricted Prison|"
+        },
+		{
+            "name": "Capture 1 paranormal sound with a sound recorder (Prison restricted)",
+            "category": ["Prison restricted objectives", "Prison restricted", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Restricted Prison|"
+        },
+        {
+            "name": "Capture 2 paranormal sound with a sound recorder (Prison restricted)",
+            "category": ["Prison restricted objectives", "Prison restricted", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Restricted Prison|"
+        },
+		{
+            "name": "Capture 3 paranormal sound with a sound recorder (Prison restricted)",
+            "category": ["Prison restricted objectives", "Prison restricted", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Restricted Prison|"
+        },
+        {
+            "name": "Detect a ghost presence with a motion sensor (Prison restricted)",
+            "category": ["Prison restricted objectives", "Prison restricted", "SensorObj"],
+            "requires": "|@Motion sensor:1| and |Restricted Prison|"
+        },
+        {
+            "name": "Prevent ghost from hunting with a crucifix (Prison restricted)",
+            "category": ["Prison restricted objectives", "Prison restricted", "CrucifixObj"],
+            "requires": "|@Crucifix:1| and |Restricted Prison|"
+        },
+        {
+            "name": "Have someone witness a ghost event (Prison restricted)",
+            "category": ["Prison restricted objectives", "Prison restricted", "WitnessObj"],
+            "requires": "|Restricted Prison|"
+        },
+        {
+            "name": "Cleanse the area near the ghost using incense (Prison restricted)",
+            "category": ["Prison restricted objectives", "Prison restricted", "CleanseObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Restricted Prison|"
+        },
+        {
+            "name": "Repel the ghost with incense while it's chasing someone (Prison restricted)",
+            "category": ["Prison restricted objectives", "Prison restricted", "RepelObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Restricted Prison|"
+        },
+        {
+            "name": "Get the ghost to blow out a firelight (Prison restricted)",
+            "category": ["Prison restricted objectives", "Prison restricted", "FirelightObj"],
+            "requires": "|@Firelight:1| and |@Lighter:1| and |Restricted Prison|"
+        },
+        {
+            "name": "Have a member of the team escape the ghost during a hunt (Prison restricted)",
+            "category": ["Prison restricted objectives", "Prison restricted", "EscapeObj"],
+            "requires": "|Restricted Prison| and |@Lighter:1| and |@Smudges:1|"
+        },
+        {
+            "name": "Get the average sanity down to 25% (Prison restricted)",
+            "category": ["Prison restricted objectives", "Prison restricted", "SanityObj"],
+            "requires": "|Restricted Prison|"
+        },
+        {
+            "name": "Detect a paranormal sound with a parabolic microphone (Prison restricted)",
+            "category": ["Prison restricted objectives", "Prison restricted", "ParamicObj"],
+            "requires": "|@Parabolic microphone:1| and |Restricted Prison|"
+        },
+		{
+            "name": "Find a music box (Prison restricted)",
+            "category": ["Prison restricted posession", "Prison restricted"],
+            "requires": "|Restricted Prison|"
+        },
+        {
+            "name": "Find a haunted mirror (Prison restricted)",
+            "category": ["Prison restricted posession", "Prison restricted"],
+            "requires": "|Restricted Prison|"
+        },
+        {
+            "name": "Find a Ouija board (Prison restricted)",
+            "category": ["Prison restricted posession", "Prison restricted"],
+            "requires": "|Restricted Prison|"
+        },
+        {
+            "name": "Find a summoning circle (Prison restricted)",
+            "category": ["Prison restricted posession", "Prison restricted"],
+            "requires": "|Restricted Prison|"
+        },
+        {
+            "name": "Find a deck of tarot cards (Prison restricted)",
+            "category": ["Prison restricted posession", "Prison restricted"],
+            "requires": "|Restricted Prison|"
+        },
+        {
+            "name": "Find a voodoo doll (Prison restricted)",
+            "category": ["Prison restricted posession", "Prison restricted"],
+            "requires": "|Restricted Prison|"
+        },
+        {
+            "name": "Find a monkey paw  (Prison restricted)",
+            "category": ["Prison restricted posession", "Prison restricted"],
+            "requires": "|Restricted Prison|",
+            "_comment": "---------------------------------------------------------------------------"
+        },
+		{
+            "name": "Restricted School completed - 1",
+            "category": ["Map completed", "School restricted"],
+            "requires": "|Restricted Brownstone high school|"
+        },
+		{
+            "name": "Restricted School completed - 2",
+            "category": ["Map completed", "School restricted"],
+            "requires": "|Restricted Brownstone high school|"
+        },
+		{
+            "name": "Restricted School completed - 3",
+            "category": ["Map completed", "School restricted"],
+            "requires": "|Restricted Brownstone high school|"
+        },
+		{
+            "name": "Restricted School completed - 4",
+            "category": ["Map completed", "School restricted"],
+            "requires": "|Restricted Brownstone high school|"
+        },
+		{
+            "name": "Restricted School completed - 5",
+            "category": ["Map completed", "School restricted"],
+            "requires": "|Restricted Brownstone high school|"
+        },
+		{
+            "name": "Restricted School - Bone",
+            "category": ["Bones", "School restricted"],
+            "requires": "|Restricted Brownstone high school|"
+        },
+        {
+            "name": "Capture a photo of any successful reading on an EMF (School restricted)",
+            "category": ["School restricted objectives", "School restricted", "PhotoObj"],
+            "requires": "|@EMF:1| and |@Photo camera:1| and |Restricted Brownstone high school|"
+        },
+        {
+            "name": "Capture a photo of the ghost (School restricted)",
+            "category": ["School restricted objectives", "School restricted", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Restricted Brownstone high school|"
+        },
+        {
+            "name": "Capture a video of the ghost (School restricted)",
+            "category": ["School restricted objectives", "School restricted", "VideoObj"],
+            "requires": "|@Video camera:1| and |Restricted Brownstone high school|"
+        },
+		{
+            "name": "Capture 1 photo with a photo camera (School restricted)",
+            "category": ["School restricted objectives", "School restricted", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Restricted Brownstone high school|"
+        },
+		{
+            "name": "Capture 2 unique photos with a photo camera (School restricted)",
+            "category": ["School restricted objectives", "School restricted", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Restricted Brownstone high school|"
+        },
+        {
+            "name": "Capture 3 unique photos with a photo camera (School restricted)",
+            "category": ["School restricted objectives", "School restricted", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Restricted Brownstone high school|"
+        },
+		{
+            "name": "Capture 4 unique photos with a photo camera (School restricted)",
+            "category": ["School restricted objectives", "School restricted", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Restricted Brownstone high school|"
+        },
+		{
+            "name": "Capture 5 unique photos with a photo camera (School restricted)",
+            "category": ["School restricted objectives", "School restricted", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Restricted Brownstone high school|"
+        },
+		{
+            "name": "Capture 1 unique video with a video camera (School restricted)",
+            "category": ["School restricted objectives", "School restricted", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Restricted Brownstone high school|"
+        },
+		{
+            "name": "Capture 2 unique video with a video camera (School restricted)",
+            "category": ["School restricted objectives", "School restricted", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Restricted Brownstone high school|"
+        },
+        {
+            "name": "Capture 3 unique video with a video camera (School restricted)",
+            "category": ["School restricted objectives", "School restricted", "VideoObj"],
+            "requires": "|@Video camera:1| and |Restricted Brownstone high school|"
+        },
+		{
+            "name": "Capture 4 unique video with a video camera (School restricted)",
+            "category": ["School restricted objectives", "School restricted", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Restricted Brownstone high school|"
+        },
+		{
+            "name": "Capture 5 unique video with a video camera (School restricted)",
+            "category": ["School restricted objectives", "School restricted", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Restricted Brownstone high school|"
+        },
+		{
+            "name": "Capture 1 paranormal sound with a sound recorder (School restricted)",
+            "category": ["School restricted objectives", "School restricted", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Restricted Brownstone high school|"
+        },
+        {
+            "name": "Capture 2 paranormal sound with a sound recorder (School restricted)",
+            "category": ["School restricted objectives", "School restricted", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Restricted Brownstone high school|"
+        },
+		{
+            "name": "Capture 3 paranormal sound with a sound recorder (School restricted)",
+            "category": ["School restricted objectives", "School restricted", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Restricted Brownstone high school|"
+        },
+        {
+            "name": "Detect a ghost presence with a motion sensor (School restricted)",
+            "category": ["School restricted objectives", "School restricted", "SensorObj"],
+            "requires": "|@Motion sensor:1| and |Restricted Brownstone high school|"
+        },
+        {
+            "name": "Prevent ghost from hunting with a crucifix (School restricted)",
+            "category": ["School restricted objectives", "School restricted", "CrucifixObj"],
+            "requires": "|@Crucifix:1| and |Restricted Brownstone high school|"
+        },
+        {
+            "name": "Have someone witness a ghost event (School restricted)",
+            "category": ["School restricted objectives", "School restricted", "WitnessObj"],
+            "requires": "|Restricted Brownstone high school|"
+        },
+        {
+            "name": "Cleanse the area near the ghost using incense (School restricted)",
+            "category": ["School restricted objectives", "School restricted", "CleanseObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Restricted Brownstone high school|"
+        },
+        {
+            "name": "Repel the ghost with incense while it's chasing someone (School restricted)",
+            "category": ["School restricted objectives", "School restricted", "RepelObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Restricted Brownstone high school|"
+        },
+        {
+            "name": "Get the ghost to blow out a firelight (School restricted)",
+            "category": ["School restricted objectives", "School restricted", "FirelightObj"],
+            "requires": "|@Firelight:1| and |@Lighter:1| and |Restricted Brownstone high school|"
+        },
+        {
+            "name": "Have a member of the team escape the ghost during a hunt (School restricted)",
+            "category": ["School restricted objectives", "School restricted", "EscapeObj"],
+            "requires": "|Restricted Brownstone high school| and |@Lighter:1| and |@Smudges:1|"
+        },
+        {
+            "name": "Get the average sanity down to 25% (School restricted)",
+            "category": ["School restricted objectives", "School restricted", "SanityObj"],
+            "requires": "|Restricted Brownstone high school|"
+        },
+        {
+            "name": "Detect a paranormal sound with a parabolic microphone (School restricted)",
+            "category": ["School restricted objectives", "School restricted", "ParamicObj"],
+            "requires": "|@Parabolic microphone:1| and |Restricted Brownstone high school|"
+        },
+		{
+            "name": "Find a music box (School restricted)",
+            "category": ["School restricted posession", "School restricted"],
+            "requires": "|Restricted Brownstone high school|"
+        },
+        {
+            "name": "Find a haunted mirror (School restricted)",
+            "category": ["School restricted posession", "School restricted"],
+            "requires": "|Restricted Brownstone high school|"
+        },
+        {
+            "name": "Find a Ouija board (School restricted)",
+            "category": ["School restricted posession", "School restricted"],
+            "requires": "|Restricted Brownstone high school|"
+        },
+        {
+            "name": "Find a summoning circle (School restricted)",
+            "category": ["School restricted posession", "School restricted"],
+            "requires": "|Restricted Brownstone high school|"
+        },
+        {
+            "name": "Find a deck of tarot cards (School restricted)",
+            "category": ["School restricted posession", "School restricted"],
+            "requires": "|Restricted Brownstone high school|"
+        },
+        {
+            "name": "Find a voodoo doll (School restricted)",
+            "category": ["School restricted posession", "School restricted"],
+            "requires": "|Restricted Brownstone high school|"
+        },
+        {
+            "name": "Find a monkey paw  (School restricted)",
+            "category": ["School restricted posession", "School restricted"],
+            "requires": "|Restricted Brownstone high school|",
+            "_comment": "---------------------------------------------------------------------------"
+        },
+		        {
+            "name": "Restricted Point hope completed - 1",
+            "category": ["Map completed", "Restricted Point hope"],
+            "requires": "|Restricted Point hope|"
+        },
+		{
+            "name": "Restricted Point hope completed - 2",
+            "category": ["Map completed", "Restricted Point hope"],
+            "requires": "|Restricted Point hope|"
+        },
+		{
+            "name": "Restricted Point hope completed - 3",
+            "category": ["Map completed", "Restricted Point hope"],
+            "requires": "|Restricted Point hope|"
+        },
+		{
+            "name": "Restricted Point hope completed - 4",
+            "category": ["Map completed", "Restricted Point hope"],
+            "requires": "|Restricted Point hope|"
+        },
+		{
+            "name": "Restricted Point hope completed - 5",
+            "category": ["Map completed", "Restricted Point hope"],
+            "requires": "|Restricted Point hope|"
+        },
+		{
+            "name": "Restricted Point hope - Bone",
+            "category": ["Bones", "Restricted Point hope"],
+            "requires": "|Restricted Point hope|"
+        },
+        {
+            "name": "Capture a photo of any successful reading on an EMF (Restricted point hope)",
+            "category": ["Restricted Point hope objectives", "Restricted Point hope", "PhotoObj"],
+            "requires": "|@EMF:1| and |@Photo camera:1| and |Restricted Point hope|"
+        },
+        {
+            "name": "Capture a photo of the ghost (Restricted point hope)",
+            "category": ["Restricted Point hope objectives", "PhotoObj", "Restricted Point hope"],
+            "requires": "|@Photo camera:1| and |Restricted Point hope|"
+        },
+        {
+            "name": "Capture a video of the ghost (Restricted point hope)",
+            "category": ["Restricted Point hope objectives", "Restricted Point hope", "VideoObj"],
+            "requires": "|@Video camera:1| and |Restricted Point hope|"
+        },
+		{
+            "name": "Capture 1 photo with a photo camera (Restricted point hope)",
+            "category": ["Restricted Point hope objectives", "Restricted Point hope", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Restricted Point hope|"
+        },
+		{
+            "name": "Capture 2 unique photos with a photo camera (Restricted point hope)",
+            "category": ["Restricted Point hope objectives", "Restricted Point hope", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Restricted Point hope|"
+        },
+        {
+            "name": "Capture 3 unique photos with a photo camera (Restricted point hope)",
+            "category": ["Restricted Point hope objectives", "Restricted Point hope", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Restricted Point hope|"
+        },
+		{
+            "name": "Capture 4 unique photos with a photo camera (Restricted point hope)",
+            "category": ["Restricted Point hope objectives", "Restricted Point hope", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Restricted Point hope|"
+        },
+		{
+            "name": "Capture 5 unique photos with a photo camera (Restricted point hope)",
+            "category": ["Restricted Point hope objectives", "Restricted Point hope", "100", "PhotoObj"],
+            "requires": "|@Photo camera:1| and |Restricted Point hope|"
+        },
+		{
+            "name": "Capture 1 video with a video camera (Restricted point hope)",
+            "category": ["Restricted Point hope objectives", "Restricted Point hope", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Restricted Point hope|"
+        },
+		{
+            "name": "Capture 2 unique video with a video camera (Restricted point hope)",
+            "category": ["Restricted Point hope objectives", "Restricted Point hope", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Restricted Point hope|"
+        },
+        {
+            "name": "Capture 3 unique video with a video camera (Restricted point hope)",
+            "category": ["Restricted Point hope objectives", "Restricted Point hope", "VideoObj"],
+            "requires": "|@Video camera:1| and |Restricted Point hope|"
+        },
+		{
+            "name": "Capture 4 unique video with a video camera (Restricted point hope)",
+            "category": ["Restricted Point hope objectives", "Restricted Point hope", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Restricted Point hope|"
+        },
+		{
+            "name": "Capture 5 unique video with a video camera (Restricted point hope)",
+            "category": ["Restricted Point hope objectives", "Restricted Point hope", "100", "VideoObj"],
+            "requires": "|@Video camera:1| and |Restricted Point hope|"
+        },
+		{
+            "name": "Capture 1 paranormal sound with a sound recorder (Restricted point hope)",
+            "category": ["Restricted Point hope objectives", "Restricted Point hope", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Restricted Point hope|"
+        },
+        {
+            "name": "Capture 2 paranormal sound with a sound recorder (Restricted point hope)",
+            "category": ["Restricted Point hope objectives", "Restricted Point hope", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Restricted Point hope|"
+        },
+		{
+            "name": "Capture 3 paranormal sound with a sound recorder (Restricted point hope)",
+            "category": ["Restricted Point hope objectives", "Restricted Point hope", "100", "SoundRecObj"],
+            "requires": "|@Sound recorder:1| and |Restricted Point hope|"
+        },
+        {
+            "name": "Detect a ghost presence with a motion sensor (Restricted point hope)",
+            "category": ["Restricted Point hope objectives", "Restricted Point hope", "SensorObj"],
+            "requires": "|@Motion sensor:1| and |Restricted Point hope|"
+        },
+        {
+            "name": "Prevent ghost from hunting with a crucifix (Restricted point hope)",
+            "category": ["Restricted Point hope objectives", "Restricted Point hope", "CrucifixObj"],
+            "requires": "|@Crucifix:1| and |Restricted Point hope|"
+        },
+        {
+            "name": "Have someone witness a ghost event (Restricted point hope)",
+            "category": ["Restricted Point hope objectives", "Restricted Point hope", "WitnessObj"],
+            "requires": "|Restricted Point hope|"
+        },
+        {
+            "name": "Cleanse the area near the ghost using incense (Restricted point hope)",
+            "category": ["Restricted Point hope objectives", "Restricted Point hope", "CleanseObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Restricted Point hope|"
+        },
+        {
+            "name": "Repel the ghost with incense while it's chasing someone (Restricted point hope)",
+            "category": ["Restricted Point hope objectives", "Restricted Point hope", "RepelObj"],
+            "requires": "|@Smudges:1| and |@Lighter:1| and |Restricted Point hope|"
+        },
+        {
+            "name": "Get the ghost to blow out a firelight (Restricted point hope)",
+            "category": ["Restricted Point hope objectives", "Restricted Point hope", "FirelightObj"],
+            "requires": "|@Firelight:1| and |@Lighter:1| and |Restricted Point hope|"
+        },
+        {
+            "name": "Have a member of the team escape the ghost during a hunt (Restricted point hope)",
+            "category": ["Restricted Point hope objectives", "Restricted Point hope", "EscapeObj"],
+            "requires": "|Restricted Point hope| and |@Lighter:1| and |@Smudges:1|"
+        },
+        {
+            "name": "Get the average sanity down to 25% (Restricted point hope)",
+            "category": ["Restricted Point hope objectives", "Restricted Point hope", "SanityObj"],
+            "requires": "|Restricted Point hope|"
+        },
+        {
+            "name": "Detect a paranormal sound with a parabolic microphone (Restricted point hope)",
+            "category": ["Restricted Point hope objectives", "Restricted Point hope", "ParamicObj"],
+            "requires": "|@Parabolic microphone:1| and |Restricted Point hope|"
+        },
+		{
+            "name": "Find a music box (Restricted point hope)",
+            "category": ["Restricted Point hope posessions", "Restricted Point hope"],
+            "requires": "|Restricted Point hope|"
+        },
+        {
+            "name": "Find a haunted mirror (Restricted point hope)",
+            "category": ["Restricted Point hope posessions", "Restricted Point hope"],
+            "requires": "|Restricted Point hope|"
+        },
+        {
+            "name": "Find a Ouija board (Restricted point hope)",
+            "category": ["Restricted Point hope posessions", "Restricted Point hope"],
+            "requires": "|Restricted Point hope|"
+        },
+        {
+            "name": "Find a summoning circle (Restricted point hope)",
+            "category": ["Restricted Point hope posessions", "Restricted Point hope"],
+            "requires": "|Restricted Point hope|"
+        },
+        {
+            "name": "Find a deck of tarot cards (Restricted point hope)",
+            "category": ["Restricted Point hope posessions", "Restricted Point hope"],
+            "requires": "|Restricted Point hope|"
+        },
+        {
+            "name": "Find a voodoo doll (Restricted point hope)",
+            "category": ["Restricted Point hope posessions", "Restricted Point hope"],
+            "requires": "|Restricted Point hope|"
+        },
+        {
+            "name": "Find a monkey paw (Restricted point hope)",
+            "category": ["Restricted Point hope posessions", "Restricted Point hope"],
+            "requires": "|Restricted Point hope|",
+            "_comment": "---------------------------------------------------------------------------"
+        },
         {
             "name": "Find a music box",
             "category": ["Cursed posessions"],
@@ -2957,12 +3535,12 @@
 			"hint_entrance": "Heart pin first try with voodoo doll"
 		},
 		{
-			"name": "It's EASY to navigate ~ASuperElf [Prison ghost room found in less than 5min without cursed posession]",
+			"name": "It's EASY to navigate [Prison ghost room found in less than 5min without cursed posession]",
 			"category": ["Gambler", "Prison"],
 			"requires": "|Prison|"
 		},
 		{
-			"name": "It's really EASY to navigate ~ASuperElf [Prison bone found in without cursed posessions]",
+			"name": "It's really EASY to navigate [Prison bone found in without cursed posessions]",
 			"category": ["Gambler", "Prison"],
 			"requires": "|Prison|"
 		},
