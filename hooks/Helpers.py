@@ -39,10 +39,16 @@ def before_is_category_enabled(multiworld: MultiWorld, player: int, category_nam
         return get_option_value(multiworld, player, "enable_maple_lodge") == 1
     if category_name == "High school":
         return get_option_value(multiworld, player, "enable_high_school") == 1
+    if category_name == "Restricted Point hope":
+        return get_option_value(multiworld, player, "enable_restricted_point_hope") == 1
+    if category_name == "Prison restricted":
+        return get_option_value(multiworld, player, "enable_restricted_prison") == 1
+    if category_name == "School restricted":
+        return get_option_value(multiworld, player, "enable_restricted_school") == 1
 
     # objective sanity
     if category_name == "Objectives":
-        return get_option_value(multiworld, player, "objective_sanity") == 1
+        return get_option_value(multiworld, player, "objective_sanity") <= 0
     if category_name == "PhotoObj":
         if get_option_value(multiworld, player, "objective_sanity") == 1:
             return get_option_value(multiworld, player, "photo_objective")
@@ -140,6 +146,12 @@ def before_is_category_enabled(multiworld: MultiWorld, player: int, category_nam
         return get_option_value(multiworld, player, "objective_sanity") == 1
     if category_name == "Tanglewood objectives":
         return get_option_value(multiworld, player, "objective_sanity") == 1
+    if category_name == "Prison restricted objectives":
+        return get_option_value(multiworld, player, "objective_sanity") == 1
+    if category_name == "School restricted objectives":
+        return get_option_value(multiworld, player, "objective_sanity") == 1
+    if category_name == "Restricted Point hope objectives":
+        return get_option_value(multiworld, player, "objective_sanity") == 1
 
     # posess sanity
     if category_name == "High school posessions":
@@ -169,6 +181,12 @@ def before_is_category_enabled(multiworld: MultiWorld, player: int, category_nam
     if category_name == "Edgefield posessions":
         return get_option_value(multiworld, player, "posession_sanity") == 1
     if category_name == "Tanglewood posessions":
+        return get_option_value(multiworld, player, "posession_sanity") == 1
+    if category_name == "Prison restricted posession":
+        return get_option_value(multiworld, player, "posession_sanity") == 1
+    if category_name == "School restricted posession":
+        return get_option_value(multiworld, player, "posession_sanity") == 1
+    if category_name == "Restricted Point hope posessions":
         return get_option_value(multiworld, player, "posession_sanity") == 1
 
     # itmes
