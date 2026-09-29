@@ -10,7 +10,7 @@
 			"disabled": 0,
 			"enabled": 1
 		},
-		"default": 1
+		"default": 0
 		},
 		"enable_apocalypse":
         {
@@ -32,7 +32,7 @@
 			"disabled": 0,
 			"enabled": 1
 		},
-		"default": 1
+		"default": 0
 		},
 		"apoc_silver":
         {
@@ -43,7 +43,7 @@
 			"disabled": 0,
 			"enabled": 1
 		},
-		"default": 1
+		"default": 0
 		},
 		"apoc_gold":
         {
@@ -65,7 +65,7 @@
 			"disabled": 0,
 			"enabled": 1
 		},
-		"default": 1
+		"default": 0
 		},
 		"photo_objective":
         {
@@ -202,7 +202,7 @@
 		"gambler":
         {
 	    "type": "Choice",
-	    "description": ["Enables custom locations that are pretty RNG"],
+	    "description": ["Enables custom locations that can be heavily RNG"],
 	    "values":
 		{
 			"disabled": 0,
@@ -213,13 +213,13 @@
 		"hundred_percent":
         {
 	    "type": "Choice",
-	    "description": ["Must fill the journal with all media"],
+	    "description": ["Each media is a check"],
 	    "values":
 		{
 			"disabled": 0,
 			"enabled": 1
 		},
-		"default": 0
+		"default": 1
 		},
 		"enable_lv1_items":
         {
@@ -241,7 +241,7 @@
 			"disabled": 0,
 			"enabled": 1
 		},
-		"default": 1
+		"default": 0
 		},
 		"enable_lv3_items":
         {
@@ -252,7 +252,7 @@
 			"disabled": 0,
 			"enabled": 1
 		},
-		"default": 1
+		"default": 0
 		},
 		"enable_tanglewood":
         {
@@ -307,7 +307,7 @@
 			"disabled": 0,
 			"enabled": 1
 		},
-		"default": 1
+		"default": 0
 		},
 		"enable_willow":
         {
@@ -340,7 +340,7 @@
 			"disabled": 0,
 			"enabled": 1
 		},
-		"default": 1
+		"default": 0
 		},
 		"enable_bleasdale":
         {
@@ -351,7 +351,7 @@
 			"disabled": 0,
 			"enabled": 1
 		},
-		"default": 1
+		"default": 0
 		},
 		"enable_maple_lodge":
         {
@@ -362,7 +362,7 @@
 			"disabled": 0,
 			"enabled": 1
 		},
-		"default": 1
+		"default": 0
 		},
 		"enable_restricted_meadows":
         {
@@ -384,7 +384,7 @@
 			"disabled": 0,
 			"enabled": 1
 		},
-		"default": 1
+		"default": 0
 		},
 		"enable_prison":
         {
@@ -395,9 +395,42 @@
 			"disabled": 0,
 			"enabled": 1
 		},
-		"default": 1
+		"default": 0
 		},
 		"enable_high_school":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 0
+		},
+		"enable_restricted_point_hope":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"enable_restricted_prison":
+        {
+	    "type": "Choice",
+	    "description": [""],
+	    "values":
+		{
+			"disabled": 0,
+			"enabled": 1
+		},
+		"default": 1
+		},
+		"enable_restricted_school":
         {
 	    "type": "Choice",
 	    "description": [""],
